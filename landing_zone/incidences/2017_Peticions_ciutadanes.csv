@@ -1,0 +1,101 @@
+CODI_DISTRICTE,DISTRICTE,ANY_DATA_TANCAMENT,DETALL,BARRI,FITXA_ID,LATITUD,AREA,COORDENADA_Y,COORDENADA_X,LONGITUD,DIA_DATA_ALTA,CANALS_RESPOSTA,NUMERO,ELEMENT,SECCIO_CENSAL,MES_DATA_TANCAMENT,TIPUS_VIA,ANY_DATA_ALTA,MES_DATA_ALTA,SUPORT,CARRER,CODI_BARRI,_id,TIPUS,DIA_DATA_TANCAMENT
+2,Eixample,2017,Objectes a netejar / retirar,l'Antiga Esquerra de l'Eixample,1125677,41.385751,Recollida i neteja de l'espai urbà,4581922,429667,2.15879,30,NO VOL RESPOSTA,218,Neteja carrers i/o places,93,1,Carrer,2016,12,TELÈFON,Consell de Cent,8,1,INCIDENCIA,1
+8,Nou Barris,2017,Fuita aigua neta de companyia o particular,la Guineueta,1125691,41.441829,Manteniment de l'espai urbà,4588138,430678,2.170172,30,NO VOL RESPOSTA,4,Fuites d'aigua neta,57,1,Carrer,2016,12,TELÈFON,Castor,48,2,INCIDENCIA,1
+6,Gràcia,2017,Fuita aigua neta de companyia o particular,la Vila de Gràcia,1125693,41.403532,Manteniment de l'espai urbà,4583902,429050,2.151188,30,NO VOL RESPOSTA,11,Fuites d'aigua neta,40,1,Carrer,2016,12,TELÈFON,Carolines,31,3,INCIDENCIA,1
+2,Eixample,2017,Objectes a netejar / retirar,la Nova Esquerra de l'Eixample,1125681,41.382316,Recollida i neteja de l'espai urbà,4581552,428496,2.144839,31,NO VOL RESPOSTA,11,Neteja carrers i/o places,127,1,Carrer,2016,12,TELÈFON,Provença,9,4,INCIDENCIA,1
+1,Ciutat Vella,2017,Contenidor rebuig / orgànic,el Barri Gòtic,1125682,41.384763,Recollida i neteja de l'espai urbà,4581801,430787,2.172202,31,EMAIL,25,Recollida brossa domiciliària,22,1,Carrer,2016,12,MÒBIL,Canuda,2,5,INCIDENCIA,1
+6,Gràcia,2017,Objectes a netejar / retirar,el Camp d'en Grassot i Gràcia Nova,1125683,41.406515,Recollida i neteja de l'espai urbà,4584221,430315,2.166283,31,NO VOL RESPOSTA,274,Neteja carrers i/o places,76,1,Travessera,2016,12,TELÈFON,Gràcia,32,6,INCIDENCIA,1
+2,Eixample,2017,Objectes a netejar / retirar,la Sagrada Família,1125684,41.406981,Recollida i neteja de l'espai urbà,4584266,431061,2.175198,31,SMS,473,Neteja carrers i/o places,36,1,Carrer,2016,12,TELÈFON,Rosselló,6,7,INCIDENCIA,1
+6,Gràcia,2017,Objectes a netejar / retirar,Vallcarca i els Penitents,1125685,41.4149,Recollida i neteja de l'espai urbà,4585170,428422,2.14352,31,EMAIL,48,Neteja carrers i/o places,12,1,Carrer,2016,12,TELÈFON,Gustavo Bécquer,28,8,INCIDENCIA,1
+6,Gràcia,2017,Objectes a netejar / retirar,el Camp d'en Grassot i Gràcia Nova,1125686,41.408563,Recollida i neteja de l'espai urbà,4584451,430075,2.163383,31,EMAIL,123,Neteja carrers i/o places,83,1,Carrer,2016,12,MÒBIL,Encarnació,32,9,INCIDENCIA,1
+7,Horta-Guinardó,2017,Ascensor urbà incidències,el Carmel,1125689,41.428909,Manteniment de l'espai urbà,4586715,429568,2.157054,31,NO VOL RESPOSTA,27,Ascensors urbans,72,1,Carrer,2016,12,TELÈFON,Lisboa,37,10,INCIDENCIA,1
+2,Eixample,2017,Objectes a netejar / retirar,Sant Antoni,1125680,41.379011,Recollida i neteja de l'espai urbà,4581176,429405,2.155741,31,EMAIL,91,Neteja carrers i/o places,159,1,Carrer,2016,12,MÒBIL,Calàbria,10,11,INCIDENCIA,1
+2,Eixample,2017,Recollida mobles abandonats al carrer,Sant Antoni,1125679,41.379068,Recollida i neteja de l'espai urbà,4581182,429398,2.155665,31,EMAIL,93,Recollida de mobles i trastos vells,159,1,Carrer,2016,12,MÒBIL,Calàbria,10,12,INCIDENCIA,1
+10,Sant Martí,2017,Objectes a netejar / retirar,el Poblenou,1125676,41.39814,Recollida i neteja de l'espai urbà,4583264,433150,2.200297,31,EMAIL,159,Neteja carrers i/o places,57,1,Carrer,2016,12,MÒBIL,Ramon Turró,68,13,INCIDENCIA,1
+2,Eixample,2017,Recollida mobles abandonats al carrer,Sant Antoni,1125678,41.375575,Recollida i neteja de l'espai urbà,4580796,429247,2.153905,31,IMMEDIATA,6,Recollida de mobles i trastos vells,154,1,Carrer,2016,12,TELÈFON,Vilamarí,10,14,INCIDENCIA,1
+9,Sant Andreu,2017,Objectes a netejar / retirar,la Sagrera,1125675,41.423371,Recollida i neteja de l'espai urbà,4586076,432031,2.186594,31,NO VOL RESPOSTA,287,Neteja carrers i/o places,69,1,Avinguda,2016,12,TELÈFON,Meridiana,61,15,INCIDENCIA,1
+7,Horta-Guinardó,2017,Calçada incidències,Horta,1125674,41.430823,Manteniment de l'espai urbà,4586924,429946,2.161551,31,EMAIL,2,Calçada,117,1,Carrer,2016,12,MÒBIL,Galla,43,16,INCIDENCIA,1
+6,Gràcia,2017,Fuita aigua neta de companyia o particular,la Vila de Gràcia,1125692,41.40809,Manteniment de l'espai urbà,4584406,429236,2.153349,31,NO VOL RESPOSTA,10,Fuites d'aigua neta,35,1,Passatge,2016,12,TELÈFON,Frígola,31,17,INCIDENCIA,1
+10,Sant Martí,2017,Objectes a netejar / retirar,Sant Martí de Provençals,1125694,41.421207,Recollida i neteja de l'espai urbà,4585829,432824,2.196114,1,EMAIL,1,Neteja carrers i/o places,115,1,Carrer,2017,1,TELÈFON,Selva del Camp,72,18,INCIDENCIA,1
+8,Nou Barris,2017,Ascensor urbà incidències,Vilapicina i la Torre Llobeta,1125695,41.430313,Manteniment de l'espai urbà,4586863,430386,2.166827,1,NO VOL RESPOSTA,323,Ascensors urbans,1,1,Passeig,2017,1,TELÈFON,Fabra i Puig,44,19,INCIDENCIA,1
+,,2017,Rec. bro. dom. recuperació objecte llançat per error,,1125696,,Gestions municipals,,,,1,SMS,,Recollida i neteja de l'espai urbà,,1,,2017,1,TELÈFON,,,20,PETICIO DE SERVEI,1
+1,Ciutat Vella,2017,Reixa embornal incidències,el Barri Gòtic,1125687,41.386021,Manteniment de l'espai urbà,4581939,430990,2.17461,1,NO VOL RESPOSTA,11,Clavegueram,23,1,Carrer,2017,1,TELÈFON,Magdalenes,2,21,INCIDENCIA,1
+1,Ciutat Vella,2017,Objectes a netejar / retirar,"Sant Pere, Santa Caterina i la Ribera",1125697,41.38507,Recollida i neteja de l'espai urbà,4581827,431713,2.183276,1,SMS,1,Neteja carrers i/o places,44,1,Carrer,2017,1,TELÈFON,Antic de Sant Joan,4,22,INCIDENCIA,1
+,,2017,Rec. animals morts en espais privats,,1125688,,Gestions municipals,,,,1,IMMEDIATA,,Recollida i neteja de l'espai urbà,,1,,2017,1,TELÈFON,,,23,PETICIO DE SERVEI,1
+1,Ciutat Vella,2017,Recollida mobles abandonats al carrer,"Sant Pere, Santa Caterina i la Ribera",1125690,41.385807,Recollida i neteja de l'espai urbà,4581912,431361,2.179051,1,IMMEDIATA,5,Recollida de mobles i trastos vells,47,1,Carrer,2017,1,TELÈFON,Colomines,4,24,INCIDENCIA,1
+8,Nou Barris,2017,Mobiliari esportiu/lleure espai obert nou/canvi lloc,la Guineueta,1125823,41.436828,Manteniment de l'espai urbà,4587585,430480,2.16787,8,EMAIL,0,Elements esportius  / lleure espai obert,215,1,Parc,2016,11,INSTÀNCIA,Central de Nou Barris,48,25,SUGGERIMENT,2
+8,Nou Barris,2017,Contenidor escombraries canvi de lloc,Porta,1125786,41.43072,Recollida i neteja de l'espai urbà,4586899,431325,2.178062,17,EMAIL,47,Recollida brossa domiciliària,23,1,Carrer,2016,11,WEB,Emili Roca,45,26,SUGGERIMENT,2
+8,Nou Barris,2017,Contenidors brossa neta canvi de lloc,el Turó de la Peira,1125787,41.43321,Recollida i neteja de l'espai urbà,4587182,430638,2.169805,18,EMAIL,34,Recollida brossa neta,40,1,Carrer,2016,11,TELÈFON,Aneto,46,27,SUGGERIMENT,2
+1,Ciutat Vella,2017,Més presència als carrers,"Sant Pere, Santa Caterina i la Ribera",1125747,,Prevenció i seguretat,,,,20,EMAIL,,Actuació guàrdia urbana,55,1,,2016,11,WEB,,4,28,SUGGERIMENT,2
+8,Nou Barris,2017,Contenidor escombraries canvi de lloc,Vallbona,1125789,41.46552,Recollida i neteja de l'espai urbà,4590756,431993,2.185613,22,SMS,51,Recollida brossa domiciliària,116,1,Carrer,2016,11,TELÈFON,Oristà,56,29,SUGGERIMENT,2
+7,Horta-Guinardó,2017,Queixes i suggeriments altres projectes urbans,la Teixonera,1125949,41.423374,"Urbanisme, obres i habitatge",4586112,428395,2.14308,23,EMAIL,5,Altres projectes urbanístics a la ciutat,88,1,Plaça,2016,11,WEB,Numen Mestre,38,30,SUGGERIMENT,2
+,,2017,Mesures substitutòries de sancions de trànsit,,1125977,,Civisme,,,,23,EMAIL,,Civisme,,1,,2016,11,WEB,,,31,CONSULTA,2
+,,2017,Sol.licitud servei,,1125900,,Prevenció i seguretat,,,,25,EMAIL,,Actuació guàrdia urbana,,1,,2016,11,WEB,,,32,SUGGERIMENT,2
+,,2017,Sol·licitud targeta vehicle elèctric,,1125857,,Gestions municipals,,,,18,EMAIL,,Mobilitat,,1,,2016,12,WEB,,,84,PETICIO DE SERVEI,2
+8,Nou Barris,2017,Vorera incidències,Verdun,1125802,41.443106,Manteniment de l'espai urbà,4588275,431184,2.176215,28,CARTA,74,Voreres,76,1,Carrer,2016,11,INSTÀNCIA,Viladrosa,51,33,INCIDENCIA,2
+8,Nou Barris,2017,Solar municipal brut,Can Peguera,1125816,41.435795,Recollida i neteja de l'espai urbà,4587473,430190,2.164409,28,NO VOL RESPOSTA,83,Neteja solar municipal,49,1,Carrer,2016,11,TELÈFON,Bellcaire,47,34,INCIDENCIA,2
+8,Nou Barris,2017,Parcs jardins i zones verdes nova/canvi de lloc,Porta,1125807,41.43271,Manteniment de l'espai urbà,4587118,431564,2.180892,28,EMAIL,1,Parcs jardins i zones verdes,29,1,Passeig,2016,11,INSTÀNCIA,Andreu Nin,45,35,SUGGERIMENT,2
+8,Nou Barris,2017,Vorera incidències,Torre Baró,1125796,41.459219,Manteniment de l'espai urbà,4590060,431643,2.1815,28,EMAIL,2,Voreres,108,1,Carrer,2016,11,MÒBIL,Llerona,54,36,INCIDENCIA,2
+8,Nou Barris,2017,Vorera incidències,Torre Baró,1125840,41.45426,Manteniment de l'espai urbà,4589517,430896,2.172622,29,EMAIL,11,Voreres,109,1,Carrer,2016,11,MÒBIL,Castellví,54,37,INCIDENCIA,2
+8,Nou Barris,2017,Espais privats incidències,Torre Baró,1125832,41.454272,Manteniment de l'espai urbà,4589518,430891,2.172566,29,EMAIL,11,Espais privats,109,1,Carrer,2016,11,MÒBIL,Castellví,54,38,INCIDENCIA,2
+8,Nou Barris,2017,Parcs jardins i zones verdes nova/canvi de lloc,Porta,1125828,41.431664,Manteniment de l'espai urbà,4587001,431607,2.181426,29,EMAIL,8,Parcs jardins i zones verdes,29,1,Avinguda,2016,11,WEB,Rio de Janeiro,45,39,SUGGERIMENT,2
+8,Nou Barris,2017,Vorera incidències,Ciutat Meridiana,1125822,41.461375,Manteniment de l'espai urbà,4590301,431431,2.178935,29,SMS,0,Voreres,112,1,Plaça,2016,11,TELÈFON,Roja de la Ciutat Meridiana,55,40,INCIDENCIA,2
+8,Nou Barris,2017,Vorera incidències,Canyelles,1125820,41.443358,Manteniment de l'espai urbà,4588308,430706,2.170492,29,SMS,81,Voreres,64,1,Via,2016,11,MÒBIL,Favència,49,41,INCIDENCIA,2
+8,Nou Barris,2017,Barana nova,Torre Baró,1125837,41.453742,Manteniment de l'espai urbà,4589460,430823,2.171756,29,EMAIL,36,Baranes,109,1,Carrer,2016,11,MÒBIL,Lliçà,54,42,SUGGERIMENT,2
+,,2017,Atenció Serveis Socials a persones sense sostre,,1126002,,Serveis socials,,,,29,EMAIL,,Problemàtiques socials a l'espai públic,,1,,2016,11,INSTÀNCIA,,,43,SUGGERIMENT,2
+10,Sant Martí,2017,Vehicles motor disciplina viària,el Parc i la Llacuna del Poblenou,1126025,41.392027,Mobilitat,4582596,432046,2.187165,7,EMAIL,2,Vehicles a motor,48,1,Avinguda,2016,12,WEB,Meridiana,66,68,QUEIXA,2
+7,Horta-Guinardó,2017,Enllumenat petició més llum,el Guinardó,1125966,41.416515,Manteniment de l'espai urbà,4585324,431101,2.175558,30,EMAIL,6,Enllumenat públic,40,1,Carrer,2016,11,TELÈFON,Telègraf,35,44,SUGGERIMENT,2
+8,Nou Barris,2017,Vorera incidències,Verdun,1125844,41.443403,Manteniment de l'espai urbà,4588308,431217,2.176609,30,EMAIL,86,Voreres,76,1,Carrer,2016,11,WEB,Viladrosa,51,45,INCIDENCIA,2
+8,Nou Barris,2017,Vorera incidències,la Trinitat Nova,1125847,41.447694,Manteniment de l'espai urbà,4588777,432032,2.186311,30,EMAIL,5,Voreres,105,1,Carrer,2016,11,TELÈFON,Pedrosa,53,46,INCIDENCIA,2
+8,Nou Barris,2017,Pilones nova pilona,Porta,1125850,41.430325,Manteniment de l'espai urbà,4586852,431678,2.18229,1,CARTA,118,Pilones,20,1,Passeig,2016,12,TELÈFON,Fabra i Puig,45,47,SUGGERIMENT,2
+8,Nou Barris,2017,Vorera incidències,Vilapicina i la Torre Llobeta,1125848,41.428707,Manteniment de l'espai urbà,4586680,430791,2.171689,1,EMAIL,14,Voreres,7,1,Carrer,2016,12,WEB,Serrano,44,48,INCIDENCIA,2
+6,Gràcia,2017,Repartidors,el Camp d'en Grassot i Gràcia Nova,1125810,,Prevenció i seguretat,,,,1,EMAIL,,Molèsties soroll a la via pública,77,1,,2016,12,TELÈFON,,32,49,QUEIXA,2
+,,2017,Atenció Serveis Socials a persones sense sostre,,1126013,,Serveis socials,,,,2,EMAIL,,Problemàtiques socials a l'espai públic,,1,,2016,12,TELÈFON,,,50,SUGGERIMENT,2
+8,Nou Barris,2017,Més presència als carrers,el Turó de la Peira,1126028,,Prevenció i seguretat,,,,2,EMAIL,,Actuació guàrdia urbana,43,1,,2016,12,TELÈFON,,46,51,SUGGERIMENT,2
+8,Nou Barris,2017,Vorera incidències,Vilapicina i la Torre Llobeta,1126008,41.428956,Manteniment de l'espai urbà,4586711,430478,2.167947,2,NO VOL RESPOSTA,134,Voreres,4,1,Carrer,2016,12,TELÈFON,Cartellà,44,52,INCIDENCIA,2
+8,Nou Barris,2017,Vehicles motor disciplina viària,Vilapicina i la Torre Llobeta,1126026,41.430549,Mobilitat,4586891,430209,2.164707,2,EMAIL,190,Vehicles a motor,1,1,Carrer,2016,12,MÒBIL,Cartellà,44,53,QUEIXA,2
+8,Nou Barris,2017,Motos nou aparcament en calçada,Porta,1125851,41.431274,Mobilitat,4586960,431327,2.178076,2,EMAIL,67,Vehicles a motor,23,1,Carrer,2016,12,WEB,Emili Roca,45,54,SUGGERIMENT,2
+8,Nou Barris,2017,Bancs incidències,Torre Baró,1125853,41.459277,Manteniment de l'espai urbà,4590067,431546,2.180344,3,EMAIL,8,Bancs,108,1,Avinguda,2016,12,MÒBIL,Escolapi Càncer,54,55,INCIDENCIA,2
+3,Sants-Montjuïc,2017,Enllumenat petició més llum,la Bordeta,1125854,41.365226,Manteniment de l'espai urbà,4579663,427642,2.13485,4,EMAIL,15,Enllumenat públic,64,1,Rambla,2016,12,WEB,Badal,16,56,SUGGERIMENT,2
+8,Nou Barris,2017,Bancs incidències,Canyelles,1126010,41.440859,Manteniment de l'espai urbà,4588036,430125,2.163562,4,SMS,5,Bancs,60,1,Via,2016,12,MÒBIL,Favència,49,57,INCIDENCIA,2
+8,Nou Barris,2017,Vorera incidències,la Guineueta,1126012,41.437635,Manteniment de l'espai urbà,4587674,430571,2.16895,5,EMAIL,3,Voreres,54,1,Plaça,2016,12,MÒBIL,Ca n'Ensenya,48,58,INCIDENCIA,2
+,,2017,Atenció Serveis Socials a persones sense sostre,,1126029,,Serveis socials,,,,5,EMAIL,,Problemàtiques socials a l'espai públic,,1,,2016,12,TELÈFON,,,59,SUGGERIMENT,2
+8,Nou Barris,2017,Molèsties gossos a la via pública i/o parcs,la Trinitat Nova,1126027,,Prevenció i seguretat,,,,6,EMAIL,,Incompliment d'ordenances a l'espai públic,105,1,,2016,12,TELÈFON,,53,60,QUEIXA,2
+8,Nou Barris,2017,Zona gossos nova / canvi de lloc,la Prosperitat,1126018,41.443989,Manteniment de l'espai urbà,4588366,432007,2.186049,6,EMAIL,529,Zona gossos,96,1,Avinguda,2016,12,WEB,Meridiana,52,61,SUGGERIMENT,2
+8,Nou Barris,2017,Zona gossos nova / canvi de lloc,la Prosperitat,1126016,41.446052,Manteniment de l'espai urbà,4588595,432030,2.186304,6,EMAIL,575,Zona gossos,97,1,Avinguda,2016,12,WEB,Meridiana,52,62,SUGGERIMENT,2
+8,Nou Barris,2017,Parcs jardins i zones verdes nova/canvi de lloc,la Prosperitat,1126015,41.446052,Manteniment de l'espai urbà,4588595,432030,2.186304,6,EMAIL,573,Parcs jardins i zones verdes,97,1,Avinguda,2016,12,WEB,Meridiana,52,63,SUGGERIMENT,2
+,,2017,Accessibilitat / manteniment oficina,,1125739,,"Informació, tràmits i atenció al ciutadà",,,,6,EMAIL,,Oficines atenció al ciutadà de districte (OACS),,1,,2016,12,WEB,,,64,QUEIXA,2
+,,2017,Permisos i concessions,,1125887,,Medi ambient,,,,6,EMAIL,,Espais verds,,1,,2016,12,WEB,,,65,CONSULTA,2
+8,Nou Barris,2017,Càrrega / descàrrega,Canyelles,1126023,,Prevenció i seguretat,,,,7,EMAIL,,Molèsties soroll a la via pública,60,1,,2016,12,WEB,,49,66,QUEIXA,2
+8,Nou Barris,2017,Càrrega / descàrrega,Canyelles,1126024,,Prevenció i seguretat,,,,7,EMAIL,,Molèsties soroll a la via pública,60,1,,2016,12,WEB,,49,67,QUEIXA,2
+6,Gràcia,2017,Alimentadors animals a la via pública,la Salut,1125813,,Prevenció i seguretat,,,,18,EMAIL,,Incompliment d'ordenances a l'espai públic,24,1,,2016,12,WEB,,30,83,QUEIXA,2
+6,Gràcia,2017,Neteja papereres plenes,el Coll,1126046,41.417114,Recollida i neteja de l'espai urbà,4585415,428550,2.145022,12,NO VOL RESPOSTA,0,Papereres,15,1,Passatge,2016,12,TELÈFON,Manlleu,29,69,INCIDENCIA,2
+7,Horta-Guinardó,2017,Vorera incidències,el Carmel,1126039,41.420822,Manteniment de l'espai urbà,4585823,428959,2.149864,13,EMAIL,164,Voreres,62,1,Passeig,2016,12,MÒBIL,Mare de Déu del Coll,37,70,INCIDENCIA,2
+,,2017,Metro incidències servei,,1125698,,Transports públics,,,,13,EMAIL,,Metro,,1,,2016,12,TELÈFON,,,71,INCIDENCIA,2
+,,2017,Atenció Serveis Socials a persones sense sostre,,1125976,,Serveis socials,,,,13,NO VOL RESPOSTA,,Problemàtiques socials a l'espai públic,,1,,2016,12,TELÈFON,,,72,SUGGERIMENT,2
+6,Gràcia,2017,"Orins, excrements animals",la Vila de Gràcia,1126054,41.401722,Recollida i neteja de l'espai urbà,4583695,429637,2.158233,14,EMAIL,173,Neteja carrers i/o places,54,1,Travessera,2016,12,TELÈFON,Gràcia,31,73,INCIDENCIA,2
+6,Gràcia,2017,Repartidors,la Vila de Gràcia,1125809,,Prevenció i seguretat,,,,15,EMAIL,,Molèsties soroll a la via pública,49,1,,2016,12,WEB,,31,74,QUEIXA,2
+6,Gràcia,2017,Repartidors,la Vila de Gràcia,1125808,,Prevenció i seguretat,,,,15,EMAIL,,Molèsties soroll a la via pública,49,1,,2016,12,WEB,,31,75,QUEIXA,2
+,,2017,Metro incidències servei,,1125700,,Transports públics,,,,15,SMS,,Metro,,1,,2016,12,MÒBIL,,,76,INCIDENCIA,2
+10,Sant Martí,2017,Recollida pneumàtica incidències,el Poblenou,1125962,41.403833,Recollida i neteja de l'espai urbà,4583897,433059,2.199138,16,SMS,6,Recollida pneumàtica,66,1,Carrer,2016,12,MÒBIL,Marià Aguiló,68,77,INCIDENCIA,2
+6,Gràcia,2017,Molèsties gossos a la via pública i/o parcs,el Coll,1125812,,Prevenció i seguretat,,,,16,EMAIL,,Incompliment d'ordenances a l'espai públic,17,1,,2016,12,WEB,,29,78,QUEIXA,2
+,,2017,Tracte rebut,,1125954,,Prevenció i seguretat,,,,16,CARTA,,Actuació guàrdia urbana,,1,,2016,12,TELÈFON,,,79,QUEIXA,2
+,,2017,Sol.licitud servei,,1125713,,Prevenció i seguretat,,,,17,IMMEDIATA,,Actuació guàrdia urbana,,1,,2016,12,WEB,,,80,SUGGERIMENT,2
+7,Horta-Guinardó,2017,Festes i activitats esportives,el Guinardó,1125892,,Prevenció i seguretat,,,,17,EMAIL,,Molèsties soroll a la via pública,42,1,,2016,12,WEB,,35,81,QUEIXA,2
+6,Gràcia,2017,Concentració persones fent soroll,la Vila de Gràcia,1125814,,Prevenció i seguretat,,,,18,EMAIL,,Molèsties soroll a la via pública,29,1,,2016,12,WEB,,31,82,QUEIXA,2
+7,Horta-Guinardó,2017,Festes i activitats esportives,el Guinardó,1125889,,Prevenció i seguretat,,,,18,EMAIL,,Molèsties soroll a la via pública,42,1,,2016,12,WEB,,35,85,QUEIXA,2
+7,Horta-Guinardó,2017,Festes i activitats esportives,el Guinardó,1125883,,Prevenció i seguretat,,,,18,EMAIL,,Molèsties soroll a la via pública,42,1,,2016,12,WEB,,35,86,QUEIXA,2
+,,2017,Sol·licitud targeta vehicle elèctric,,1125928,,Gestions municipals,,,,19,EMAIL,,Mobilitat,,1,,2016,12,WEB,,,87,PETICIO DE SERVEI,2
+6,Gràcia,2017,Repartidors,la Vila de Gràcia,1125815,,Prevenció i seguretat,,,,19,EMAIL,,Molèsties soroll a la via pública,51,1,,2016,12,WEB,,31,88,QUEIXA,2
+,,2017,Sol·licitud targeta vehicle elèctric,,1125858,,Gestions municipals,,,,19,EMAIL,,Mobilitat,,1,,2016,12,WEB,,,89,PETICIO DE SERVEI,2
+,,2017,Informació Zoo,,1125961,,Oci / lleure,,,,19,EMAIL,,Zoo,,1,,2016,12,FULLS QUEIXES I SUGGERIMENTS,,,90,INCIDENCIA,2
+7,Horta-Guinardó,2017,Bandes rugoses incidències,Montbau,1125960,41.432214,Mobilitat,4587093,428398,2.143006,19,SMS,9,Ordenació viària,95,1,Carrer,2016,12,TELÈFON,Poesia,40,91,INCIDENCIA,2
+7,Horta-Guinardó,2017,"Orins, excrements humans",el Guinardó,1125870,41.418999,Recollida i neteja de l'espai urbà,4585597,431371,2.17876,19,EMAIL,20,Neteja carrers i/o places,42,1,Carrer,2016,12,WEB,Teodor Llorente,35,92,INCIDENCIA,2
+7,Horta-Guinardó,2017,Vorera incidències,el Guinardó,1126040,41.422583,Manteniment de l'espai urbà,4585996,431293,2.177781,19,EMAIL,19,Voreres,44,1,Carrer,2016,12,MÒBIL,Segle XX,35,93,INCIDENCIA,2
+6,Gràcia,2017,Insectes / artròpodes en espais públics,la Vila de Gràcia,1125957,41.405383,Sanitat i salut pública,4584108,429009,2.150667,19,EMAIL,239,Servei de vigilància i control de plagues,40,1,Carrer,2016,12,INSTÀNCIA,Gran de Gràcia,31,94,INCIDENCIA,2
+,,2017,Rec. roba domiciliària,,1125925,,Gestions municipals,,,,19,EMAIL,,Recollida i neteja de l'espai urbà,,1,,2016,12,TELÈFON,,,95,PETICIO DE SERVEI,2
+7,Horta-Guinardó,2017,Vorera incidències,el Guinardó,1126033,41.414692,Manteniment de l'espai urbà,4585121,431190,2.17664,20,EMAIL,74,Voreres,39,1,Carrer,2016,12,MÒBIL,Sant Quintí,35,96,INCIDENCIA,2
+7,Horta-Guinardó,2017,Vorera incidències,la Font d'en Fargues,1126038,41.426965,Manteniment de l'espai urbà,4586493,430220,2.164876,20,EMAIL,10,Voreres,55,1,Avinguda,2016,12,MÒBIL,Frederic Rahola,36,97,INCIDENCIA,2
+7,Horta-Guinardó,2017,Vorera incidències,el Guinardó,1126037,41.417051,Manteniment de l'espai urbà,4585385,430969,2.173975,20,EMAIL,34,Voreres,38,1,Carrer,2016,12,MÒBIL,Telègraf,35,98,INCIDENCIA,2
+,,2017,Disconformitat servei autobusos TMB,,1125699,,Transports públics,,,,20,EMAIL,,Autobusos TMB,,1,,2016,12,WEB,,,99,QUEIXA,2
+,,2017,Devolució sol·licitada i no efectuada,,1126001,,Hisenda,,,,20,CARTA,,Devolucions,,1,,2016,12,TELÈFON,,,100,QUEIXA,2

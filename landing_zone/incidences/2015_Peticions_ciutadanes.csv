@@ -1,0 +1,101 @@
+CODI_DISTRICTE,DISTRICTE,ANY_DATA_TANCAMENT,DETALL,BARRI,FITXA_ID,LATITUD,AREA,COORDENADA_Y,COORDENADA_X,LONGITUD,DIA_DATA_ALTA,CANALS_RESPOSTA,NUMERO,ELEMENT,SECCIO_CENSAL,MES_DATA_TANCAMENT,TIPUS_VIA,ANY_DATA_ALTA,MES_DATA_ALTA,SUPORT,CARRER,CODI_BARRI,_id,TIPUS,DIA_DATA_TANCAMENT
+7,Horta-Guinardó,2015,Contenidor escombraries desplaçat,el Carmel,115307,41.42723902,Recollida i neteja de l'espai urbà,4586529.967,429495.8411,2.156209829,1,NO VOL RESPOSTA,101,Recollida brossa domiciliària,71,1,Carrer,2015,1,TELÈFON,Dante Alighieri,37,1,INCIDENCIA,1
+,,2015,Rec. animals morts en espais privats,,115308,,Gestions municipals,,,,1,IMMEDIATA,,Recollida i neteja de l'espai urbà,,1,,2015,1,TELÈFON,,,2,PETICIO DE SERVEI,1
+3,Sants-Montjuïc,2015,Emergència especial,el Poble Sec,115309,41.37341232,Manteniment de l'espai urbà,4580546.788,430202.4508,2.165355437,1,NO VOL RESPOSTA,16,Emergència ciutat,15,1,Carrer,2015,1,TELÈFON,Blai,11,3,INCIDENCIA,1
+5,Sarrià-Sant Gervasi,2015,Neteja de carrers o places (ús app),Sant Gervasi - Galvany,115314,41.3973178,Recollida i neteja de l'espai urbà,4583214.721,428791.2768,2.14816871,1,SMS,89,Neteja carrers i/o places,69,1,Carrer,2015,1,MÒBIL,Marià Cubí,26,4,INCIDENCIA,1
+2,Eixample,2015,Objectes a netejar / retirar,el Fort Pienc,115311,41.39264765,Recollida i neteja de l'espai urbà,4582671.408,431359.1507,2.178945291,1,NO VOL RESPOSTA,20,Neteja carrers i/o places,6,1,Passeig,2015,1,TELÈFON,Sant Joan,5,5,INCIDENCIA,1
+5,Sarrià-Sant Gervasi,2015,Neteja de carrers o places (ús app),Sant Gervasi - Galvany,115312,41.39253126,Recollida i neteja de l'espai urbà,4582690.107,428099.5818,2.139957516,1,EMAIL,1,Neteja carrers i/o places,57,1,Plaça,2015,1,MÒBIL,Joan Llongueras,26,6,INCIDENCIA,1
+6,Gràcia,2015,Objectes a netejar / retirar,Vallcarca i els Penitents,115313,41.41682206,Recollida i neteja de l'espai urbà,4585387.119,428098.7662,2.13962738,1,SMS,7,Neteja carrers i/o places,6,1,Carrer,2015,1,TELÈFON,Ca l'Alegre,28,7,INCIDENCIA,1
+10,Sant Martí,2015,Vorera tapa,el Poblenou,115310,41.40373197,Manteniment de l'espai urbà,4583886.556,433017.3725,2.198643969,1,NO VOL RESPOSTA,210,Voreres,66,1,Carrer,2015,1,TELÈFON,Pere IV,68,8,INCIDENCIA,1
+5,Sarrià-Sant Gervasi,2015,Nova parada BUS,Sarrià,115316,41.40321817,Transports públics,4583897.084,426072.5638,2.115566547,8,CARTA,7,Autobusos TMB,5,1,Carrer,2014,12,TELÈFON,Can Caralleu,23,9,SUGGERIMENT,2
+,,2015,Portal de tràmits,,115433,,Portal de tràmits,,,,9,EMAIL,,Relacions amb l'Ajuntament,,1,,2014,12,WEB,,,10,CONSULTA,2
+,,2015,Carpeta ciutadà,,115424,,Portal de tràmits,,,,9,EMAIL,,Relacions amb l'Ajuntament,,1,,2014,12,WEB,,,11,CONSULTA,2
+,,2015,Portal de tràmits,,115442,,Portal de tràmits,,,,10,EMAIL,,Relacions amb l'Ajuntament,,1,,2014,12,WEB,,,12,CONSULTA,2
+,,2015,Desacord subvenció,,115483,,Mobilitat,,,,23,EMAIL,,Àrea verda,,1,,2014,12,TELÈFON,,,60,QUEIXA,2
+,,2015,Portal de tràmits,,115445,,Portal de tràmits,,,,10,EMAIL,,Relacions amb l'Ajuntament,,1,,2014,12,WEB,,,13,CONSULTA,2
+,,2015,Carpeta ciutadà,,115449,,Portal de tràmits,,,,12,EMAIL,,Relacions amb l'Ajuntament,,1,,2014,12,WEB,,,14,CONSULTA,2
+,,2015,Disconformitat servei autobusos TMB,,115315,,Transports públics,,,,13,CARTA,,Autobusos TMB,,1,,2014,12,TELÈFON,,,15,QUEIXA,2
+,,2015,Carpeta ciutadà,,115459,,Portal de tràmits,,,,14,EMAIL,,Relacions amb l'Ajuntament,,1,,2014,12,WEB,,,16,CONSULTA,2
+,,2015,Carpeta ciutadà,,115462,,Portal de tràmits,,,,15,EMAIL,,Relacions amb l'Ajuntament,,1,,2014,12,WEB,,,17,CONSULTA,2
+8,Nou Barris,2015,Vorera incidències,les Roquetes,115355,41.44542291,Manteniment de l'espai urbà,4588535.859,430848.5284,2.172167547,16,NO VOL RESPOSTA,11,Voreres,72,1,Carrer,2014,12,TELÈFON,Alcántara,50,18,INCIDENCIA,2
+,,2015,Disconforme actuació agent,,115386,,Prevenció i seguretat,,,,16,CARTA,,Actuació guàrdia urbana,,1,,2014,12,TELÈFON,,,19,QUEIXA,2
+10,Sant Martí,2015,Parcs jardins i zones verdes tracte personal,Diagonal Mar i el Front Marítim del Poblenou,115330,41.40758781,Manteniment de l'espai urbà,4584310.421,433477.5144,2.204101843,16,CARTA,98,Parcs jardins i zones verdes,76,1,Carrer,2014,12,INSTÀNCIA,Bac de Roda,69,20,QUEIXA,2
+,,2015,Problemes entre la referència cadastral i l'adreça,,115394,,"Urbanisme, obres i habitatge",,,,16,EMAIL,,E-obres,,1,,2014,12,WEB,,,21,INCIDENCIA,2
+,,2015,Problemes entre la referència cadastral i l'adreça,,115401,,"Urbanisme, obres i habitatge",,,,17,EMAIL,,E-obres,,1,,2014,12,WEB,,,22,INCIDENCIA,2
+4,Les Corts,2015,Vehicles motor disciplina viària,les Corts,115514,41.3874671,Mobilitat,4582134.431,427438.0245,2.132111681,18,NO VOL RESPOSTA,1,Vehicles a motor,27,1,Carrer,2014,12,PROXIMITAT GUB,Anglesola,19,23,QUEIXA,2
+7,Horta-Guinardó,2015,Recollida mobles abandonats al carrer,el Carmel,115345,41.41848685,Recollida i neteja de l'espai urbà,4585555.493,429775.8521,2.159673803,18,IMMEDIATA,58,Recollida de mobles i trastos vells,60,1,Carrer,2014,12,TELÈFON,Mühlberg,37,24,INCIDENCIA,2
+8,Nou Barris,2015,Pilones nova pilona,Canyelles,115353,41.44293185,Manteniment de l'espai urbà,4588261.995,430564.9699,2.168804807,18,NO VOL RESPOSTA,63,Pilones,63,1,Via,2014,12,TELÈFON,Favència,49,25,SUGGERIMENT,2
+3,Sants-Montjuïc,2015,Font incidencies,la Font de la Guatlla,115456,41.3696665,Manteniment de l'espai urbà,4580144.459,428807.6045,2.148724748,20,NO VOL RESPOSTA,0,Fonts,42,1,Avinguda,2014,12,TELÈFON,Francesc Ferrer i Guàrdia,14,26,INCIDENCIA,2
+,,2015,Carpeta ciutadà,,115453,,Portal de tràmits,,,,21,EMAIL,,Relacions amb l'Ajuntament,,1,,2014,12,WEB,,,27,CONSULTA,2
+,,2015,Portal de tràmits,,115337,,Portal de tràmits,,,,22,EMAIL,,Relacions amb l'Ajuntament,,1,,2014,12,WEB,,,28,CONSULTA,2
+,,2015,Portal de tràmits,,115338,,Portal de tràmits,,,,22,EMAIL,,Relacions amb l'Ajuntament,,1,,2014,12,WEB,,,29,CONSULTA,2
+,,2015,Portal de tràmits,,115339,,Portal de tràmits,,,,22,EMAIL,,Relacions amb l'Ajuntament,,1,,2014,12,WEB,,,30,CONSULTA,2
+,,2015,Portal de tràmits,,115340,,Portal de tràmits,,,,22,EMAIL,,Relacions amb l'Ajuntament,,1,,2014,12,WEB,,,31,CONSULTA,2
+,,2015,Portal de tràmits,,115342,,Portal de tràmits,,,,22,EMAIL,,Relacions amb l'Ajuntament,,1,,2014,12,WEB,,,32,CONSULTA,2
+,,2015,Portal de tràmits,,115343,,Portal de tràmits,,,,22,EMAIL,,Relacions amb l'Ajuntament,,1,,2014,12,WEB,,,33,CONSULTA,2
+5,Sarrià-Sant Gervasi,2015,Parcs jardins i zones verdes disconforme horari,el Putxet i el Farró,115346,41.40835805,Manteniment de l'espai urbà,4584445.372,428299.1594,2.142136637,22,EMAIL,161,Parcs jardins i zones verdes,92,1,Jardins,2014,12,TELÈFON,Turó del Putget,27,34,QUEIXA,2
+,,2015,"Informació: llicències, comunicats o assabentats d'obres",,115360,,Portal de tràmits,,,,22,EMAIL,,Relacions amb l'Ajuntament,,1,,2014,12,WEB,,,35,CONSULTA,2
+,,2015,"Informació: llicències, comunicats o assabentats d'obres",,115364,,Portal de tràmits,,,,22,EMAIL,,Relacions amb l'Ajuntament,,1,,2014,12,WEB,,,36,CONSULTA,2
+,,2015,"Informació: llicències, comunicats o assabentats d'obres",,115366,,Portal de tràmits,,,,22,EMAIL,,Relacions amb l'Ajuntament,,1,,2014,12,WEB,,,37,CONSULTA,2
+,,2015,Portal de tràmits,,115336,,Portal de tràmits,,,,22,EMAIL,,Relacions amb l'Ajuntament,,1,,2014,12,WEB,,,38,CONSULTA,2
+,,2015,Carpeta ciutadà,,115333,,Portal de tràmits,,,,22,EMAIL,,Relacions amb l'Ajuntament,,1,,2014,12,WEB,,,39,CONSULTA,2
+,,2015,Portal de tràmits,,115332,,Portal de tràmits,,,,22,EMAIL,,Relacions amb l'Ajuntament,,1,,2014,12,WEB,,,40,CONSULTA,2
+4,Les Corts,2015,Molèsties gossos a la via pública i/o parcs,les Corts,115331,,Prevenció i seguretat,,,,22,EMAIL,,Incompliment d'ordenances a l'espai públic,15,1,,2014,12,TELÈFON,,19,41,QUEIXA,2
+,,2015,Carpeta ciutadà,,115461,,Portal de tràmits,,,,22,EMAIL,,Relacions amb l'Ajuntament,,1,,2014,12,WEB,,,42,CONSULTA,2
+,,2015,"Informació: llicències, comunicats o assabentats d'obres",,115392,,Portal de tràmits,,,,22,EMAIL,,Relacions amb l'Ajuntament,,1,,2014,12,WEB,,,43,CONSULTA,2
+,,2015,"Informació: llicències, comunicats o assabentats d'obres",,115389,,Portal de tràmits,,,,22,EMAIL,,Relacions amb l'Ajuntament,,1,,2014,12,WEB,,,44,CONSULTA,2
+,,2015,"Informació: llicències, comunicats o assabentats d'obres",,115387,,Portal de tràmits,,,,22,EMAIL,,Relacions amb l'Ajuntament,,1,,2014,12,WEB,,,45,CONSULTA,2
+,,2015,Portal de tràmits,,115385,,Portal de tràmits,,,,22,EMAIL,,Relacions amb l'Ajuntament,,1,,2014,12,WEB,,,46,CONSULTA,2
+,,2015,"Informació: llicències, comunicats o assabentats d'obres",,115383,,Portal de tràmits,,,,22,EMAIL,,Relacions amb l'Ajuntament,,1,,2014,12,WEB,,,47,CONSULTA,2
+,,2015,"Informació: llicències, comunicats o assabentats d'obres",,115379,,Portal de tràmits,,,,22,EMAIL,,Relacions amb l'Ajuntament,,1,,2014,12,WEB,,,48,CONSULTA,2
+,,2015,Portal de tràmits,,115446,,Portal de tràmits,,,,22,EMAIL,,Relacions amb l'Ajuntament,,1,,2014,12,WEB,,,49,CONSULTA,2
+,,2015,"Actes públics, inauguracions, manifestacions",,115488,,Oci,,,,22,EMAIL,,Activitats,,1,,2014,12,WEB,,,50,CONSULTA,2
+,,2015,Afectacions al trànsit,,115472,,Mobilitat,,,,22,EMAIL,,"Vehicle privat (cotxe, moto)",,1,,2014,12,WEB,,,51,CONSULTA,2
+,,2015,Portal de tràmits,,115470,,Portal de tràmits,,,,22,EMAIL,,Relacions amb l'Ajuntament,,1,,2014,12,WEB,,,52,CONSULTA,2
+,,2015,"Informació: llicències, comunicats o assabentats d'obres",,115373,,Portal de tràmits,,,,22,EMAIL,,Relacions amb l'Ajuntament,,1,,2014,12,WEB,,,53,CONSULTA,2
+,,2015,"Informació: llicències, comunicats o assabentats d'obres",,115371,,Portal de tràmits,,,,22,EMAIL,,Relacions amb l'Ajuntament,,1,,2014,12,WEB,,,54,CONSULTA,2
+,,2015,"Informació: llicències, comunicats o assabentats d'obres",,115369,,Portal de tràmits,,,,22,EMAIL,,Relacions amb l'Ajuntament,,1,,2014,12,WEB,,,55,CONSULTA,2
+,,2015,Portal de tràmits,,115356,,Portal de tràmits,,,,22,EMAIL,,Relacions amb l'Ajuntament,,1,,2014,12,WEB,,,56,CONSULTA,2
+5,Sarrià-Sant Gervasi,2015,Parcs jardins i zones verdes tracte personal,el Putxet i el Farró,115349,41.40743359,Manteniment de l'espai urbà,4584342.012,428371.7307,2.143017056,23,EMAIL,9,Parcs jardins i zones verdes,92,1,Carrer,2014,12,TELÈFON,Manacor,27,57,QUEIXA,2
+5,Sarrià-Sant Gervasi,2015,Parcs jardins i zones verdes tracte personal,el Putxet i el Farró,115350,41.40935248,Manteniment de l'espai urbà,4584556.795,428197.1261,2.140902772,23,EMAIL,31,Parcs jardins i zones verdes,92,1,Carrer,2014,12,TELÈFON,Marmellà,27,58,QUEIXA,2
+,,2015,Portal de tràmits,,115484,,Portal de tràmits,,,,23,EMAIL,,Relacions amb l'Ajuntament,,1,,2014,12,WEB,,,59,CONSULTA,2
+,,2015,No aplicació tarifa 0 (àrea verda gratuïta),,115480,,Mobilitat,,,,23,EMAIL,,Àrea verda,,1,,2014,12,WEB,,,61,QUEIXA,2
+,,2015,No aplicació tarifa 0 (àrea verda gratuïta),,115477,,Mobilitat,,,,23,EMAIL,,Àrea verda,,1,,2014,12,WEB,,,62,QUEIXA,2
+,,2015,No aplicació tarifa 0 (àrea verda gratuïta),,115475,,Mobilitat,,,,23,EMAIL,,Àrea verda,,1,,2014,12,WEB,,,63,QUEIXA,2
+,,2015,Portal de tràmits,,115510,,Portal de tràmits,,,,23,EMAIL,,Relacions amb l'Ajuntament,,1,,2014,12,WEB,,,64,CONSULTA,2
+,,2015,Carpeta ciutadà,,115509,,Portal de tràmits,,,,23,EMAIL,,Relacions amb l'Ajuntament,,1,,2014,12,WEB,,,65,CONSULTA,2
+,,2015,Portal de tràmits,,115504,,Portal de tràmits,,,,23,EMAIL,,Relacions amb l'Ajuntament,,1,,2014,12,WEB,,,66,CONSULTA,2
+,,2015,Portal de tràmits,,115503,,Portal de tràmits,,,,23,EMAIL,,Relacions amb l'Ajuntament,,1,,2014,12,WEB,,,67,CONSULTA,2
+,,2015,Portal de tràmits,,115502,,Portal de tràmits,,,,23,EMAIL,,Relacions amb l'Ajuntament,,1,,2014,12,WEB,,,68,CONSULTA,2
+,,2015,Carpeta ciutadà,,115508,,Portal de tràmits,,,,23,EMAIL,,Relacions amb l'Ajuntament,,1,,2014,12,WEB,,,69,CONSULTA,2
+5,Sarrià-Sant Gervasi,2015,Parcs jardins i zones verdes tracte personal,el Putxet i el Farró,115348,41.40743359,Manteniment de l'espai urbà,4584342.012,428371.7307,2.143017056,23,EMAIL,9,Parcs jardins i zones verdes,92,1,Carrer,2014,12,TELÈFON,Manacor,27,70,QUEIXA,2
+,,2015,Carpeta ciutadà,,115491,,Portal de tràmits,,,,23,EMAIL,,Relacions amb l'Ajuntament,,1,,2014,12,WEB,,,71,CONSULTA,2
+,,2015,Desacord subvenció,,115490,,Mobilitat,,,,23,EMAIL,,Àrea verda,,1,,2014,12,TELÈFON,,,72,QUEIXA,2
+5,Sarrià-Sant Gervasi,2015,Disconforme servei de neteja carrers / places,Sant Gervasi - Galvany,115354,41.39882347,Recollida i neteja de l'espai urbà,4583382.832,428696.0159,2.147009479,23,EMAIL,68,Neteja carrers i/o places,73,1,Carrer,2014,12,TELÈFON,Madrazo,26,73,QUEIXA,2
+10,Sant Martí,2015,Disconforme servei de neteja carrers / places,el Camp de l'Arpa del Clot,115352,41.40880577,Recollida i neteja de l'espai urbà,4584460.792,431849.463,2.184608206,23,EMAIL,585,Neteja carrers i/o places,14,1,Carrer,2014,12,TELÈFON,València,64,74,QUEIXA,2
+6,Gràcia,2015,Disconforme servei de neteja carrers / places,la Vila de Gràcia,115351,41.40379226,Recollida i neteja de l'espai urbà,4583927.675,429394.0012,2.155294869,23,EMAIL,147,Neteja carrers i/o places,51,1,Carrer,2014,12,WEB,Torrent de l'Olla,31,75,QUEIXA,2
+,,2015,Desacord subvenció,,115485,,Mobilitat,,,,23,EMAIL,,Àrea verda,,1,,2014,12,TELÈFON,,,76,QUEIXA,2
+10,Sant Martí,2015,Disconforme servei de neteja carrers / places,Sant Martí de Provençals,115363,41.41521985,Recollida i neteja de l'espai urbà,4585162.625,432953.747,2.197741464,24,EMAIL,132,Neteja carrers i/o places,109,1,Carrer,2014,12,TELÈFON,Concili de Trento,72,77,QUEIXA,2
+2,Eixample,2015,Disconforme servei de neteja carrers / places,Sant Antoni,115377,41.37658871,Recollida i neteja de l'espai urbà,4580907.213,429401.8432,2.155740724,24,EMAIL,36,Neteja carrers i/o places,153,1,Avinguda,2014,12,TELÈFON,Mistral,10,78,QUEIXA,2
+,,2015,Incidències apparkb,,115513,,Mobilitat,,,,24,EMAIL,,Àrea verda,,1,,2014,12,WEB,,,79,INCIDENCIA,2
+1,Ciutat Vella,2015,Neteja de carrers o places (ús app),la Barceloneta,115395,41.3794057,Recollida i neteja de l'espai urbà,4581193.632,432160.4167,2.188694267,24,EMAIL,1,Neteja carrers i/o places,39,1,Carrer,2014,12,MÒBIL,Pescadors,3,80,INCIDENCIA,2
+2,Eixample,2015,Disconforme servei de neteja carrers / places,la Nova Esquerra de l'Eixample,115362,41.38427839,Recollida i neteja de l'espai urbà,4581769.255,428558.5395,2.145555387,24,EMAIL,18,Neteja carrers i/o places,127,1,Carrer,2014,12,WEB,Rosselló,9,81,QUEIXA,2
+3,Sants-Montjuïc,2015,Parcs jardins i zones verdes fuites aigua,Sants - Badal,115396,41.37157634,Manteniment de l'espai urbà,4580370.777,427369.019,2.131497786,25,EMAIL,31,Parcs jardins i zones verdes,70,1,Carrer,2014,12,TELÈFON,Antoni de Capmany,17,82,INCIDENCIA,2
+3,Sants-Montjuïc,2015,Parcs jardins i zones verdes fuites aigua,Sants - Badal,115327,41.37157634,Manteniment de l'espai urbà,4580370.777,427369.019,2.131497786,25,NO VOL RESPOSTA,31,Parcs jardins i zones verdes,70,1,Carrer,2014,12,TELÈFON,Antoni de Capmany,17,83,INCIDENCIA,2
+1,Ciutat Vella,2015,Contenidors brossa neta incidències,"Sant Pere, Santa Caterina i la Ribera",115398,41.39038023,Recollida i neteja de l'espai urbà,4582416.067,431739.4313,2.183522391,25,NO VOL RESPOSTA,9,Recollida brossa neta,55,1,Carrer,2014,12,TELÈFON,Roger de Flor,4,84,INCIDENCIA,2
+3,Sants-Montjuïc,2015,Parcs jardins i zones verdes fuites aigua,Sants,115326,41.37240749,Manteniment de l'espai urbà,4580462.347,427440.2228,2.132338169,25,NO VOL RESPOSTA,0,Parcs jardins i zones verdes,97,1,Carrer,2014,12,TELÈFON,Antoni de Capmany,18,85,INCIDENCIA,2
+5,Sarrià-Sant Gervasi,2015,Parcs jardins i zones verdes emergències (perill),el Putxet i el Farró,115400,41.40679458,Manteniment de l'espai urbà,4584268.173,428664.2926,2.146525688,26,SMS,0,Parcs jardins i zones verdes,89,1,Carrer,2014,12,TELÈFON,Homer,27,86,INCIDENCIA,2
+,,2015,Incidències notificació electrònica DEV,,115460,,Hisenda,,,,2,EMAIL,,Notificacions,,1,,2015,1,WEB,,,190,INCIDENCIA,2
+10,Sant Martí,2015,Recollida pneumàtica incidències,el Besòs i el Maresme,115397,41.41899098,Recollida i neteja de l'espai urbà,4585570.735,434107.0089,2.211495382,26,EMAIL,60,Recollida pneumàtica,87,1,Carrer,2014,12,WEB,Alfons el Magnànim,70,87,INCIDENCIA,2
+,,2015,Agraïments recollida i neteja de l'espai urbà,,115402,,Agraïments,,,,27,EMAIL,,Agraïments recollida i neteja de l'espai urbà,,1,,2014,12,WEB,,,88,AGRAIMENT,2
+8,Nou Barris,2015,Senyalització vertical incidències,Vilapicina i la Torre Llobeta,115390,41.429744,Manteniment de l'espai urbà,4586798.604,430476.4466,2.167913576,27,SMS,16,Senyalització vertical trànsit,4,1,Passatge,2014,12,MÒBIL,Palmeres,44,89,INCIDENCIA,2
+2,Eixample,2015,Contenidor escombraries incidències,la Dreta de l'Eixample,115405,41.39984523,Recollida i neteja de l'espai urbà,4583476.739,430708.9018,2.171075894,27,SMS,177,Recollida brossa domiciliària,56,1,Carrer,2014,12,TELÈFON,Roger de Flor,7,90,INCIDENCIA,2
+2,Eixample,2015,Disconforme servei de neteja carrers / places,Sant Antoni,115403,41.38512453,Recollida i neteja de l'espai urbà,4581848.97,430016.6743,2.162983766,27,EMAIL,588,Neteja carrers i/o places,164,1,Gran Via,2014,12,TELÈFON,Corts Catalanes,10,91,QUEIXA,2
+,,2015,Problemes / desacords àrea verda,,115516,,Mobilitat,,,,28,EMAIL,,Àrea verda,,1,,2014,12,WEB,,,92,QUEIXA,2
+5,Sarrià-Sant Gervasi,2015,Manteniment xarxa privada,Sant Gervasi - Galvany,115319,41.39381484,Manteniment de l'espai urbà,4582827.812,428585.8256,2.145756899,28,NO VOL RESPOSTA,9,Xarxa elèctrica / comunicacions privada,61,1,Travessera,2014,12,TELÈFON,Gràcia,26,93,INCIDENCIA,2
+2,Eixample,2015,Disconforme servei de neteja carrers / places,Sant Antoni,115406,41.37518119,Recollida i neteja de l'espai urbà,4580747.66,429739.1266,2.159792257,28,EMAIL,138,Neteja carrers i/o places,173,1,Avinguda,2014,12,TELÈFON,Paral.lel,10,94,QUEIXA,2
+7,Horta-Guinardó,2015,Calçada petició pavimentació,la Vall d'Hebron,115417,41.43450069,Manteniment de l'espai urbà,4587339.106,429201.2727,2.152590049,28,EMAIL,43,Calçada,98,1,Avinguda,2014,12,MÒBIL,Estatut de Catalunya,41,95,SUGGERIMENT,2
+7,Horta-Guinardó,2015,Contenidors brossa neta sol·licitud nou/s,Can Baró,115416,41.41544959,Recollida i neteja de l'espai urbà,4585215.843,430026.2239,2.16270882,28,EMAIL,33,Recollida brossa neta,25,1,Carrer,2014,12,TELÈFON,Bismarck,34,96,SUGGERIMENT,2
+7,Horta-Guinardó,2015,Contenidor escombraries sol·licitud nou/s,Can Baró,115415,41.41544959,Recollida i neteja de l'espai urbà,4585215.843,430026.2239,2.16270882,28,EMAIL,33,Recollida brossa domiciliària,25,1,Carrer,2014,12,TELÈFON,Bismarck,34,97,SUGGERIMENT,2
+2,Eixample,2015,"Orins, excrements animals",Sant Antoni,115407,41.38266077,Recollida i neteja de l'espai urbà,4581576.072,429949.3802,2.162210545,28,SMS,19,Neteja carrers i/o places,165,1,Carrer,2014,12,TELÈFON,Casanova,10,98,INCIDENCIA,2
+2,Eixample,2015,"Orins, excrements animals",la Nova Esquerra de l'Eixample,115408,41.38168864,Recollida i neteja de l'espai urbà,4581479.309,428803.2337,2.148515704,29,EMAIL,37,Neteja carrers i/o places,136,1,Carrer,2014,12,TELÈFON,València,9,99,INCIDENCIA,2

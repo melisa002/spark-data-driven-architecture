@@ -1,0 +1,101 @@
+CODI_DISTRICTE,DISTRICTE,ANY_DATA_TANCAMENT,DETALL,BARRI,FITXA_ID,LATITUD,AREA,COORDENADA_Y,COORDENADA_X,LONGITUD,DIA_DATA_ALTA,CANALS_RESPOSTA,NUMERO,ELEMENT,SECCIO_CENSAL,MES_DATA_TANCAMENT,TIPUS_VIA,ANY_DATA_ALTA,MES_DATA_ALTA,SUPORT,CARRER,CODI_BARRI,_id,TIPUS,DIA_DATA_TANCAMENT
+2,Eixample,2021,Coloms en espais públics,l'Antiga Esquerra de l'Eixample,8809473,41.38772,Sanitat i salut pública,4582145,429205,2.15325,5,EMAIL,161,Servei de vigilància i control de plagues,101,1,Carrer,2020,10,RECLAMACIÓ INTERNA,Villarroel,8,1,INCIDENCIA,1
+2,Eixample,2021,Incompliment horaris locals,l'Antiga Esquerra de l'Eixample,8808476,41.39217,Prevenció i seguretat,4582645,428520,2.145,30,EMAIL,261,Incompliment d'ordenances a l'espai públic,109,1,Carrer,2020,10,TELÈFON,Comte D'urgell,8,2,QUEIXA,1
+,,2021,Disconforme actuació agent,,8808475,,Prevenció i seguretat,,,,11,EMAIL,,Actuació guàrdia urbana,,1,,2020,11,WEB,,,3,QUEIXA,1
+,,2021,Disconforme actuació agent,,8808474,,Prevenció i seguretat,,,,17,EMAIL,,Actuació guàrdia urbana,,1,,2020,11,INSTÀNCIA,,,4,QUEIXA,1
+,,2021,Sol.licitud servei,,8811473,,Prevenció i seguretat,,,,17,EMAIL,,Actuació guàrdia urbana,,1,,2020,11,RECLAMACIÓ INTERNA,,,5,SUGGERIMENT,1
+2,Eixample,2021,Persones  col·lectius molestant espai públic,la Dreta de l'Eixample,8808473,41.39738,Prevenció i seguretat,4583199,431009,2.17471,18,EMAIL,162,Molèsties espai públic,67,1,Carrer,2020,11,TELÈFON,Roger de Flor,7,6,QUEIXA,1
+,,2021,Desacord pels retards en el pla individual d'atenció,,8809489,,Serveis socials,,,,20,EMAIL,,Aplicació llei dependència,,1,,2020,11,TELÈFON,,,7,QUEIXA,1
+,,2021,Desacord amb la prestació de serveis,,8809490,,Serveis socials,,,,20,EMAIL,,Centres de serveis socials,,1,,2020,11,TELÈFON,,,8,QUEIXA,1
+,,2021,Desacord amb la prestació de serveis,,8809493,,Serveis socials,,,,20,EMAIL,,Centres de serveis socials,,1,,2020,11,TELÈFON,,,9,QUEIXA,1
+,,2021,Desacord amb la prestació de serveis,,8809487,,Serveis socials,,,,20,EMAIL,,Centres de serveis socials,,1,,2020,11,TELÈFON,,,10,QUEIXA,1
+,,2021,Desacord amb la prestació de serveis,,8809488,,Serveis socials,,,,20,EMAIL,,Centres de serveis socials,,1,,2020,11,TELÈFON,,,11,QUEIXA,1
+,,2021,Desacord amb la prestació de serveis,,8809491,,Serveis socials,,,,20,EMAIL,,Centres de serveis socials,,1,,2020,11,TELÈFON,,,12,QUEIXA,1
+,,2021,Desacord amb la prestació de serveis,,8809486,,Serveis socials,,,,20,CARTA,,Centres de serveis socials,,1,,2020,11,INSTÀNCIA,,,13,QUEIXA,1
+,,2021,Desacord amb la prestació de serveis,,8809492,,Serveis socials,,,,20,CARTA,,Centres de serveis socials,,1,,2020,11,TELÈFON,,,14,QUEIXA,1
+,,2021,Desacord amb la prestació de serveis,,8809494,,Serveis socials,,,,23,CARTA,,Centres de serveis socials,,1,,2020,11,TELÈFON,,,15,QUEIXA,1
+,,2021,Desacord amb la prestació de serveis,,8809495,,Serveis socials,,,,23,EMAIL,,Centres de serveis socials,,1,,2020,11,WEB,,,16,QUEIXA,1
+,,2021,Sistema educatiu,,8809496,,Educació,,,,23,EMAIL,,Sistema educatiu,,1,,2020,11,WEB,,,17,CONSULTA,1
+,,2021,Desacord amb la prestació de serveis,,8809498,,Serveis socials,,,,24,EMAIL,,Centres de serveis socials,,1,,2020,11,TELÈFON,,,18,QUEIXA,1
+2,Eixample,2021,Obres a la via pública.,la Dreta de l'Eixample,8809477,41.39917,Prevenció i seguretat,4583402,430541,2.16908,24,EMAIL,376,Molèsties soroll a la via pública,57,1,Avinguda,2020,11,TELÈFON,Diagonal,7,19,QUEIXA,1
+,,2021,Desacord amb la prestació de serveis,,8809497,,Serveis socials,,,,24,EMAIL,,Centres de serveis socials,,1,,2020,11,TELÈFON,,,20,QUEIXA,1
+,,2021,Desacord amb la prestació de serveis,,8809499,,Serveis socials,,,,25,EMAIL,,Centres de serveis socials,,1,,2020,11,TELÈFON,,,21,QUEIXA,1
+,,2021,Desacord amb la prestació de serveis,,8809500,,Serveis socials,,,,25,NO VOL RESPOSTA,,Centres de serveis socials,,1,,2020,11,TELÈFON,,,22,QUEIXA,1
+,,2021,Desacord amb l'atenció telefònica,,8809501,,Serveis socials,,,,25,EMAIL,,Atenció telefònica,,1,,2020,11,TELÈFON,,,23,QUEIXA,1
+,,2021,Desacord amb la prestació de serveis,,8809505,,Serveis socials,,,,26,EMAIL,,Centres de serveis socials,,1,,2020,11,INSTÀNCIA,,,24,QUEIXA,1
+,,2021,Desacord amb la prestació de serveis,,8809502,,Serveis socials,,,,26,EMAIL,,Centres de serveis socials,,1,,2020,11,INSTÀNCIA,,,25,QUEIXA,1
+,,2021,Desacord amb la prestació de serveis,,8809504,,Serveis socials,,,,26,NO VOL RESPOSTA,,Centres de serveis socials,,1,,2020,11,INSTÀNCIA,,,26,QUEIXA,1
+,,2021,Desacord amb la prestació de serveis,,8809503,,Serveis socials,,,,26,EMAIL,,Centres de serveis socials,,1,,2020,11,INSTÀNCIA,,,27,QUEIXA,1
+,,2021,Desacord amb la prestació de serveis,,8809506,,Serveis socials,,,,26,EMAIL,,Centres de serveis socials,,1,,2020,11,INSTÀNCIA,,,28,QUEIXA,1
+7,Horta-Guinardó,2021,Concentració persones fent soroll,el Guinardó,8809485,41.41938,Prevenció i seguretat,4585638,431450,2.1797,1,EMAIL,34,Molèsties soroll a la via pública,42,1,Carrer,2020,12,WEB,Garrotxa,35,29,QUEIXA,1
+2,Eixample,2021,Convivència veïnal,el Fort Pienc,8809479,41.39432,Prevenció i seguretat,4582855,431501,2.18063,1,EMAIL,95,Incompliment d'ordenances a l'espai privat,2,1,Carrer,2020,12,TELÈFON,Napols,5,30,QUEIXA,1
+7,Horta-Guinardó,2021,Terrasses / vetlladors,el Guinardó,8809483,41.41837,Prevenció i seguretat,4585526,431394,2.17904,1,EMAIL,39,Molèsties soroll a la via pública,34,1,Carrer,2020,12,TELÈFON,Xiprer,35,31,QUEIXA,1
+,,2021,Tracte rebut,,8809475,,Prevenció i seguretat,,,,3,CARTA,,Actuació guàrdia urbana,,1,,2020,12,INSTÀNCIA,,,32,QUEIXA,1
+2,Eixample,2021,Convivència veïnal,el Fort Pienc,8809478,41.39432,Prevenció i seguretat,4582855,431501,2.18063,3,CARTA,95,Incompliment d'ordenances a l'espai privat,2,1,Carrer,2020,12,INSTÀNCIA,Napols,5,33,QUEIXA,1
+2,Eixample,2021,Convivència veïnal,Sant Antoni,8809474,41.37727,Prevenció i seguretat,4580976,430080,2.16384,3,EMAIL,52,Incompliment d'ordenances a l'espai privat,169,1,Carrer,2020,12,TELÈFON,Parlament,10,34,QUEIXA,1
+7,Horta-Guinardó,2021,Persones  col·lectius molestant espai públic,el Guinardó,8809482,41.41837,Prevenció i seguretat,4585526,431394,2.17904,3,TELEFÒNIC,39,Molèsties espai públic,34,1,Carrer,2020,12,TELÈFON,Xiprer,35,35,QUEIXA,1
+,,2021,Sol.licitud servei,,8818480,,Prevenció i seguretat,,,,3,EMAIL,,Actuació guàrdia urbana,,1,,2020,12,RECLAMACIÓ INTERNA,,,36,SUGGERIMENT,1
+,,2021,Informació: llicències  comunicats o assabentats d'obres,,8811484,,Portal de tràmits,,,,3,EMAIL,,Relacions amb l'Ajuntament,,1,,2020,12,RECLAMACIÓ INTERNA,,,37,CONSULTA,1
+,,2021,Informació: llicències  comunicats o assabentats d'obres,,8811485,,Portal de tràmits,,,,4,EMAIL,,Relacions amb l'Ajuntament,,1,,2020,12,RECLAMACIÓ INTERNA,,,38,CONSULTA,1
+7,Horta-Guinardó,2021,Motos nou aparcament en calçada,Horta,8809481,41.43606,Mobilitat,4587508,429619,2.15758,4,EMAIL,75,Vehicles a motor,109,1,Carrer,2020,12,WEB,Lloret de Mar,43,39,SUGGERIMENT,1
+7,Horta-Guinardó,2021,Pilones nova pilona,el Carmel,8809484,41.42242,Manteniment de l'espai urbà,4585995,429469,2.15595,7,EMAIL,74,Pilones,68,1,Carrer,2020,12,TELÈFON,Agudells,37,40,SUGGERIMENT,1
+2,Eixample,2021,Persones  col·lectius molestant espai públic,l'Antiga Esquerra de l'Eixample,8809476,41.38385,Prevenció i seguretat,4581709,429728,2.15956,8,EMAIL,0,Molèsties espai públic,94,1,Jardins,2020,12,WEB,Cesar Martinell,8,41,QUEIXA,1
+7,Horta-Guinardó,2021,Molèsties ocupació espai públic,el Guinardó,8809480,41.41811,Prevenció i seguretat,4585501,431077,2.17526,10,EMAIL,30,Molèsties espai públic,37,1,Carrer,2020,12,WEB,Feliu,35,42,QUEIXA,1
+,,2021,Atenció a l'oficina,,8811479,,Informació  tràmits i atenció al ciutadà,,,,11,EMAIL,,Oficina serveis tècnics de Districte,,1,,2020,12,TELÈFON,,,43,QUEIXA,1
+2,Eixample,2021,Embús de trànsit,la Dreta de l'Eixample,8811474,41.39474,Mobilitat,4582911,430495,2.16859,11,EMAIL,0,Ordenació viària,70,1,Carrer,2020,12,TELÈFON,Arago,7,44,QUEIXA,1
+,,2021,Carpeta ciutadà,,8818473,,Portal de tràmits,,,,29,EMAIL,,Relacions amb l'Ajuntament,,1,,2020,12,WEB,,,59,CONSULTA,1
+,,2021,No ha rebut resposta,,8811481,,Informació  tràmits i atenció al ciutadà,,,,14,EMAIL,,Incidències instàncies i fulls de queixes,,1,,2020,12,TELÈFON,,,45,INCIDENCIA,1
+,,2021,Informació: llicències  comunicats o assabentats d'obres,,8811483,,Portal de tràmits,,,,14,EMAIL,,Relacions amb l'Ajuntament,,1,,2020,12,WEB,,,46,CONSULTA,1
+,,2021,Atenció a l'oficina,,8811482,,Informació  tràmits i atenció al ciutadà,,,,14,EMAIL,,Oficina serveis tècnics de Districte,,1,,2020,12,WEB,,,47,QUEIXA,1
+,,2021,No ha rebut resposta,,8811480,,Informació  tràmits i atenció al ciutadà,,,,14,EMAIL,,Incidències instàncies i fulls de queixes,,1,,2020,12,WEB,,,48,INCIDENCIA,1
+7,Horta-Guinardó,2021,Molèsties gossos a la via pública i/o parcs,el Carmel,8811478,41.42058,Prevenció i seguretat,4585793,429151,2.15217,14,EMAIL,47,Incompliment d'ordenances a l'espai públic,61,1,Carrer,2020,12,WEB,Santuari,37,49,QUEIXA,1
+7,Horta-Guinardó,2021,Trànsit restriccions temporals,Horta,8811477,41.43156,Mobilitat,4587005,429915,2.16118,15,EMAIL,16,Trànsit,116,1,Carrer,2020,12,INSTÀNCIA,Vent,43,50,QUEIXA,1
+7,Horta-Guinardó,2021,Pla de mobilitat,el Carmel,8811476,41.42353,Mobilitat,4586120,429235,2.15314,16,CARTA,46,Ordenació viària,77,1,Carrer,2020,12,INSTÀNCIA,Ramon Rocafull,37,51,SUGGERIMENT,1
+2,Eixample,2021,Trànsit restriccions temporals,Sant Antoni,8811475,41.37888,Mobilitat,4581162,429316,2.15469,18,EMAIL,454,Trànsit,159,1,Gran Via,2020,12,TELÈFON,Corts Catalanes,10,52,QUEIXA,1
+,,2021,Disconforme actuació agent,,8814473,,Prevenció i seguretat,,,,21,EMAIL,,Actuació guàrdia urbana,,1,,2020,12,TELÈFON,,,53,QUEIXA,1
+2,Eixample,2021,Més presència als carrers,la Sagrada Família,8814474,41.40688,Prevenció i seguretat,4584249,431625,2.18195,22,CARTA,543,Actuació guàrdia urbana,31,1,Carrer,2020,12,TELÈFON,Valencia,6,54,SUGGERIMENT,1
+2,Eixample,2021,Alarmes,la Sagrada Família,8814475,41.40466,Prevenció i seguretat,4584000,431792,2.18398,26,EMAIL,576,Molèsties soroll a la via pública,22,1,Carrer,2020,12,TELÈFON,Consell de Cent,6,55,QUEIXA,1
+,,2021,Carpeta ciutadà,,8818475,,Portal de tràmits,,,,28,EMAIL,,Relacions amb l'Ajuntament,,1,,2020,12,WEB,,,56,CONSULTA,1
+2,Eixample,2021,Vehicles motor abandonats,la Sagrada Família,8818482,41.40241,Mobilitat,4583757,431128,2.17607,28,EMAIL,433,Vehicles a motor,51,1,Carrer,2020,12,TELÈFON,Valencia,6,57,INCIDENCIA,1
+,,2021,Portal de tràmits,,8818476,,Portal de tràmits,,,,29,EMAIL,,Relacions amb l'Ajuntament,,1,,2020,12,WEB,,,58,CONSULTA,1
+,,2021,Agraïments guàrdia urbana,,8818479,,Agraïments,,,,29,EMAIL,,Agraïments prevenció i seguretat,,1,,2020,12,WEB,,,60,AGRAIMENT,1
+,,2021,Portal de tràmits,,8818477,,Portal de tràmits,,,,29,EMAIL,,Relacions amb l'Ajuntament,,1,,2020,12,WEB,,,61,CONSULTA,1
+,,2021,Oficina Virtual de Tràmits,,8818474,,Portal de tràmits,,,,30,EMAIL,,Relacions amb l'Ajuntament,,1,,2020,12,WEB,,,62,CONSULTA,1
+,,2021,Portal de tràmits,,8818478,,Portal de tràmits,,,,30,EMAIL,,Relacions amb l'Ajuntament,,1,,2020,12,WEB,,,63,CONSULTA,1
+,,2021,Portal de tràmits,,8818481,,Portal de tràmits,,,,30,EMAIL,,Relacions amb l'Ajuntament,,1,,2020,12,WEB,,,64,CONSULTA,1
+,,2021,Portal de tràmits,,8823480,,Portal de tràmits,,,,30,EMAIL,,Relacions amb l'Ajuntament,,1,,2020,12,WEB,,,65,CONSULTA,1
+,,2021,Portal de tràmits,,8823493,,Portal de tràmits,,,,30,EMAIL,,Relacions amb l'Ajuntament,,1,,2020,12,WEB,,,66,CONSULTA,1
+,,2021,Portal de tràmits,,8823490,,Portal de tràmits,,,,31,EMAIL,,Relacions amb l'Ajuntament,,1,,2020,12,WEB,,,67,CONSULTA,1
+,,2021,Portal de tràmits,,8823476,,Portal de tràmits,,,,31,EMAIL,,Relacions amb l'Ajuntament,,1,,2020,12,WEB,,,68,CONSULTA,1
+,,2021,Portal de tràmits,,8823484,,Portal de tràmits,,,,31,EMAIL,,Relacions amb l'Ajuntament,,1,,2020,12,WEB,,,69,CONSULTA,1
+,,2021,Portal de tràmits,,8823473,,Portal de tràmits,,,,31,EMAIL,,Relacions amb l'Ajuntament,,1,,2020,12,WEB,,,70,CONSULTA,1
+,,2021,Portal de tràmits,,8823481,,Portal de tràmits,,,,31,EMAIL,,Relacions amb l'Ajuntament,,1,,2020,12,WEB,,,71,CONSULTA,1
+,,2021,Portal de tràmits,,8823475,,Portal de tràmits,,,,31,EMAIL,,Relacions amb l'Ajuntament,,1,,2020,12,WEB,,,72,CONSULTA,1
+,,2021,Accés habitatge protegit i inscripció registre sol·licitants,,8823474,,Habitatge,,,,31,EMAIL,,Informació,,1,,2020,12,WEB,,,73,CONSULTA,1
+,,2021,Portal de tràmits,,8823486,,Portal de tràmits,,,,31,EMAIL,,Relacions amb l'Ajuntament,,1,,2020,12,WEB,,,74,CONSULTA,1
+,,2021,Carpeta ciutadà,,8823485,,Portal de tràmits,,,,31,EMAIL,,Relacions amb l'Ajuntament,,1,,2020,12,WEB,,,75,CONSULTA,1
+,,2021,Servei taxi,,8823479,,Transports públics,,,,31,EMAIL,,Taxi,,1,,2020,12,TELÈFON,,,76,QUEIXA,1
+,,2021,Portal de tràmits,,8823489,,Portal de tràmits,,,,31,EMAIL,,Relacions amb l'Ajuntament,,1,,2020,12,WEB,,,77,CONSULTA,1
+,,2021,Portal de tràmits,,8823488,,Portal de tràmits,,,,31,EMAIL,,Relacions amb l'Ajuntament,,1,,2020,12,WEB,,,78,CONSULTA,1
+,,2021,Portal de tràmits,,8823491,,Portal de tràmits,,,,31,EMAIL,,Relacions amb l'Ajuntament,,1,,2020,12,WEB,,,79,CONSULTA,1
+,,2021,Targeta Park Güell,,8823487,,Portal de tràmits,,,,31,EMAIL,,Entorn (veïnatge  barri  districte  ciutat),,1,,2020,12,WEB,,,80,CONSULTA,1
+,,2021,Portal de tràmits,,8823478,,Portal de tràmits,,,,31,EMAIL,,Relacions amb l'Ajuntament,,1,,2020,12,WEB,,,81,CONSULTA,1
+,,2021,Portal de tràmits,,8823498,,Portal de tràmits,,,,1,EMAIL,,Relacions amb l'Ajuntament,,1,,2021,1,WEB,,,82,CONSULTA,1
+,,2021,Portal de tràmits,,8823504,,Portal de tràmits,,,,1,EMAIL,,Relacions amb l'Ajuntament,,1,,2021,1,WEB,,,83,CONSULTA,1
+,,2021,Portal de tràmits,,8823501,,Portal de tràmits,,,,1,EMAIL,,Relacions amb l'Ajuntament,,1,,2021,1,WEB,,,84,CONSULTA,1
+,,2021,Portal de tràmits,,8823494,,Portal de tràmits,,,,1,EMAIL,,Relacions amb l'Ajuntament,,1,,2021,1,WEB,,,85,CONSULTA,1
+,,2021,Portal de tràmits,,8823496,,Portal de tràmits,,,,1,EMAIL,,Relacions amb l'Ajuntament,,1,,2021,1,WEB,,,86,CONSULTA,1
+,,2021,Portal de tràmits,,8823477,,Portal de tràmits,,,,1,EMAIL,,Relacions amb l'Ajuntament,,1,,2021,1,WEB,,,87,CONSULTA,1
+,,2021,Portal de tràmits,,8823506,,Portal de tràmits,,,,1,EMAIL,,Relacions amb l'Ajuntament,,1,,2021,1,WEB,,,88,CONSULTA,1
+,,2021,Oficina Virtual de Tràmits,,8823505,,Portal de tràmits,,,,1,EMAIL,,Relacions amb l'Ajuntament,,1,,2021,1,WEB,,,89,CONSULTA,1
+5,Sarrià - Sant Gervasi,2021,Reixa embornal incidències,Sant Gervasi - la Bonanova,8823492,41.40559,Manteniment de l'espai urbà,4584144,427693,2.13492,1,EMAIL,550,Clavegueram,40,1,Carrer,2021,1,TELÈFON,Muntaner,25,90,INCIDENCIA,1
+,,2021,Portal de tràmits,,8823502,,Portal de tràmits,,,,1,EMAIL,,Relacions amb l'Ajuntament,,1,,2021,1,WEB,,,91,CONSULTA,1
+,,2021,Portal de tràmits,,8823495,,Portal de tràmits,,,,1,EMAIL,,Relacions amb l'Ajuntament,,1,,2021,1,WEB,,,92,CONSULTA,1
+,,2021,Portal de tràmits,,8823503,,Portal de tràmits,,,,1,EMAIL,,Relacions amb l'Ajuntament,,1,,2021,1,WEB,,,93,CONSULTA,1
+,,2021,Oficina Virtual de Tràmits,,8823499,,Portal de tràmits,,,,1,EMAIL,,Relacions amb l'Ajuntament,,1,,2021,1,WEB,,,94,CONSULTA,1
+,,2021,Rec. animals morts en espais privats,,8823483,,Gestions municipals,,,,1,IMMEDIATA,,Recollida i neteja de l'espai urbà,,1,,2021,1,TELÈFON,,,95,PETICIO DE SERVEI,1
+,,2021,Portal de tràmits,,8823507,,Portal de tràmits,,,,1,EMAIL,,Relacions amb l'Ajuntament,,1,,2021,1,WEB,,,96,CONSULTA,1
+,,2021,Rec. animals morts en espais privats,,8823482,,Gestions municipals,,,,1,IMMEDIATA,,Recollida i neteja de l'espai urbà,,1,,2021,1,TELÈFON,,,97,PETICIO DE SERVEI,1
+,,2021,Portal de tràmits,,8823497,,Portal de tràmits,,,,1,EMAIL,,Relacions amb l'Ajuntament,,1,,2021,1,WEB,,,98,CONSULTA,1
+,,2021,Ajuts lloguer i borsa habitatge de lloguer,,8823500,,Habitatge,,,,1,EMAIL,,Informació,,1,,2021,1,WEB,,,99,CONSULTA,1
+,,2021,Rec. animals morts en espais privats,,8823511,,Gestions municipals,,,,1,IMMEDIATA,,Recollida i neteja de l'espai urbà,,1,,2021,1,TELÈFON,,,100,PETICIO DE SERVEI,1

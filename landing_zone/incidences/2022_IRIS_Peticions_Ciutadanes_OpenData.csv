@@ -1,0 +1,101 @@
+CODI_DISTRICTE,DISTRICTE,ANY_DATA_TANCAMENT,DETALL,BARRI,FITXA_ID,LATITUD,AREA,COORDENADA_Y,COORDENADA_X,LONGITUD,DIA_DATA_ALTA,CANALS_RESPOSTA,NUMERO,ELEMENT,SECCIO_CENSAL,MES_DATA_TANCAMENT,TIPUS_VIA,ANY_DATA_ALTA,MES_DATA_ALTA,SUPORT,CARRER,CODI_BARRI,_id,TIPUS,DIA_DATA_TANCAMENT
+7,Horta-Guinardó,2022,Contenidor orgànic/rebuig desplaçat,Sant Genís dels Agudells,16899987,,Recollida i neteja de l'espai urbà,4586741,427481,,1,NO VOL RESPOSTA,61,Recollida orgànic / rebuig,90,1,Avinguda,2022,1,TELÈFON,Av D'elies Pagès,39,1,INCIDENCIA,1
+8,Nou Barris,2022,Semàfor incidències,Vilapicina i la Torre Llobeta,16899992,,Manteniment de l'espai urbà,4586824,431665,,1,IMMEDIATA,103,Semàfors,19,1,Passeig,2022,1,TELÈFON,Pg de Fabra i Puig,44,2,INCIDENCIA,1
+6,Gràcia,2022,Calçada incidències,la Vila de Gràcia,16899985,,Manteniment de l'espai urbà,4583402,429299,,1,EMAIL,100,Calçada,,1,,2022,1,WEB,Trav de Gràcia,31,3,INCIDENCIA,1
+9,Sant Andreu,2022,Objectes a netejar / retirar,la Sagrera,16899988,,Recollida i neteja de l'espai urbà,4586503,432055,,1,SMS,7,Neteja carrers i/o places,156,1,Carrer,2022,1,TELÈFON,de Torroella de Montgrí,61,4,INCIDENCIA,1
+7,Horta-Guinardó,2022,Escala mecànica incidències,el Carmel,16899986,,Manteniment de l'espai urbà,4585974,429264,,1,EMAIL,86,Escales mecàniques,62,1,Carrer,2022,1,TELÈFON,de la Murtra,37,5,INCIDENCIA,1
+7,Horta-Guinardó,2022,Semàfor incidències,el Guinardó,16899991,,Manteniment de l'espai urbà,4585628,431482,,1,IMMEDIATA,6,Semàfors,,1,,2022,1,WEB,de Teodor Llorente,35,6,INCIDENCIA,1
+,,2022,Rec. animals morts en espais privats,,16899989,,Gestions municipals,,,,1,IMMEDIATA,,Recollida i neteja de l'espai urbà,,1,,2022,1,TELÈFON,,,7,PETICIO DE SERVEI,1
+10,Sant Martí,2022,Semàfor incidències,el Camp de l'Arpa del Clot,16899990,,Manteniment de l'espai urbà,4584986,431267,,1,IMMEDIATA,286,Semàfors,,1,,2022,1,WEB,de Sant Antoni Maria Claret,64,8,INCIDENCIA,1
+10,Sant Martí,2022,Molèsties gossos a habitatges,el Besòs i el Maresme,16889988,,Prevenció i seguretat,4584980,434362,,31,TELEFÒNIC,494,Incompliment d'ordenances a l'espai privat,91,1,Carrer,2021,7,RECLAMACIÓ INTERNA,de Pallars,70,9,QUEIXA,2
+3,Sants-Montjuïc,2022,Molèsties gossos a la via pública i/o parcs,Sants - Badal,16900023,,Prevenció i seguretat,4580634,426909,,18,EMAIL,30,Incompliment d'ordenances a l'espai públic,,1,Carrer,2021,8,RECLAMACIÓ INTERNA,de Bonsoms,17,10,QUEIXA,2
+,,2022,Tracte rebut,,16889985,,Prevenció i seguretat,,,,4,CARTA,,Actuació guàrdia urbana,,1,,2021,9,INSTÀNCIA,,,11,QUEIXA,2
+3,Sants-Montjuïc,2022,Espais privats incidències,Sants,16889990,,Manteniment de l'espai urbà,4580635,427646,,18,EMAIL,45,Espais privats,,1,Carrer,2021,10,RECLAMACIÓ INTERNA,dels Jocs Florals,18,12,INCIDENCIA,2
+6,Gràcia,2022,Molèsties gossos a habitatges,el Coll,16889989,,Prevenció i seguretat,4585492,428780,,8,EMAIL,80,Incompliment d'ordenances a l'espai privat,14,1,Passeig,2021,11,RECLAMACIÓ INTERNA,Pg de la Mare de Déu del Coll,29,13,QUEIXA,2
+3,Sants-Montjuïc,2022,Orins  excrements animals,Sants,16889986,,Recollida i neteja de l'espai urbà,4580488,427653,,11,EMAIL,60,Neteja carrers i/o places,,1,Carrer,2021,11,WEB,de Burgos,18,14,INCIDENCIA,2
+,,2022,No ha rebut resposta,,16889987,,Informació  tràmits i atenció ciutadana,,,,12,EMAIL,,Incidències instàncies i fulls de queixes,,1,,2021,11,TELÈFON,,,15,INCIDENCIA,2
+,,2022,Tracte animals,,16890986,,Sanitat i salut pública,,,,7,EMAIL,,Centre d'acollida d'animals de companyia de Barcelona,,1,,2021,12,WEB,,,16,QUEIXA,2
+,,2022,Voluntariat,,16890985,,Sanitat i salut pública,,,,7,CARTA,,Centre d'acollida d'animals de companyia de Barcelona,,1,,2021,12,TELÈFON,,,17,SUGGERIMENT,2
+,,2022,Desacord prestació servei transport especial,,16895987,,Serveis socials,,,,27,IMMEDIATA,,Persones amb discapacitats,,1,,2021,12,TELÈFON,,,18,QUEIXA,2
+,,2022,Desacord prestació servei transport especial,,16895986,,Serveis socials,,,,27,IMMEDIATA,,Persones amb discapacitats,,1,,2021,12,TELÈFON,,,19,QUEIXA,2
+7,Horta-Guinardó,2022,Enllumenat incidències,Horta,16895985,,Manteniment de l'espai urbà,4586836,429921,,28,IMMEDIATA,1,Enllumenat públic,117,1,Plaça,2021,12,TELÈFON,Pl D'eivissa,43,20,INCIDENCIA,2
+10,Sant Martí,2022,Objectes a netejar / retirar,el Parc i la Llacuna del Poblenou,16900001,,Recollida i neteja de l'espai urbà,4583592,432141,,30,SMS,1,Neteja carrers i/o places,42,1,Carrer,2021,12,WEB,de Bolívia,66,21,INCIDENCIA,2
+,,2022,Convocatòries,,16899999,,Cultura,,,,30,EMAIL,,Subvencions cultura,,1,,2021,12,WEB,,,22,CONSULTA,2
+,,2022,Carpeta ciutadà,,16900021,,Portal de tràmits,,,,30,EMAIL,,Relacions amb l'Ajuntament,,1,,2021,12,WEB,,,23,CONSULTA,2
+,,2022,Oferta pública,,16900018,,Portal de tràmits,,,,31,EMAIL,,Relacions amb l'Ajuntament,,1,,2021,12,WEB,,,24,CONSULTA,2
+,,2022,Oferta pública,,16900020,,Portal de tràmits,,,,31,EMAIL,,Relacions amb l'Ajuntament,,1,,2021,12,WEB,,,25,CONSULTA,2
+,,2022,Portal de tràmits,,16900004,,Portal de tràmits,,,,31,EMAIL,,Relacions amb l'Ajuntament,,1,,2021,12,WEB,,,26,CONSULTA,2
+,,2022,Portal de tràmits,,16900005,,Portal de tràmits,,,,31,EMAIL,,Relacions amb l'Ajuntament,,1,,2021,12,WEB,,,27,CONSULTA,2
+,,2022,Incidències SAP,,16905203,,Hisenda,,,,3,EMAIL,,Atenció ciutadans Hisenda,,1,,2022,1,TELÈFON,,,1294,INCIDENCIA,4
+,,2022,Oferta pública,,16900019,,Portal de tràmits,,,,31,EMAIL,,Relacions amb l'Ajuntament,,1,,2021,12,WEB,,,28,CONSULTA,2
+,,2022,Portal de tràmits,,16900002,,Portal de tràmits,,,,31,EMAIL,,Relacions amb l'Ajuntament,,1,,2021,12,WEB,,,29,CONSULTA,2
+6,Gràcia,2022,Enllumenat incidències,el Coll,16900024,,Manteniment de l'espai urbà,4585029,428557,,31,IMMEDIATA,1,Enllumenat públic,13,1,Carrer,2021,12,TELÈFON,de Sant Eudald,29,30,INCIDENCIA,2
+,,2022,Portal de tràmits,,16900003,,Portal de tràmits,,,,31,EMAIL,,Relacions amb l'Ajuntament,,1,,2021,12,WEB,,,31,CONSULTA,2
+,,2022,Portal de tràmits,,16900008,,Portal de tràmits,,,,1,EMAIL,,Relacions amb l'Ajuntament,,1,,2022,1,WEB,,,32,CONSULTA,2
+,,2022,Oferta pública,,16900031,,Portal de tràmits,,,,1,EMAIL,,Relacions amb l'Ajuntament,,1,,2022,1,WEB,,,33,CONSULTA,2
+,,2022,Portal de tràmits,,16900006,,Portal de tràmits,,,,1,EMAIL,,Relacions amb l'Ajuntament,,1,,2022,1,WEB,,,34,CONSULTA,2
+,,2022,Portal de tràmits,,16900011,,Portal de tràmits,,,,1,EMAIL,,Relacions amb l'Ajuntament,,1,,2022,1,WEB,,,35,CONSULTA,2
+3,Sants-Montjuïc,2022,Recollida animals morts espai públic,el Poble-sec,16900009,,Recollida i neteja de l'espai urbà,4580699,430039,,1,NO VOL RESPOSTA,1,Recollida animals morts,12,1,Carrer,2022,1,TELÈFON,de Blasco de Garay,11,36,INCIDENCIA,2
+,,2022,Oferta pública,,16900026,,Portal de tràmits,,,,1,EMAIL,,Relacions amb l'Ajuntament,,1,,2022,1,WEB,,,37,CONSULTA,2
+,,2022,Oferta pública,,16900017,,Portal de tràmits,,,,1,EMAIL,,Relacions amb l'Ajuntament,,1,,2022,1,WEB,,,38,CONSULTA,2
+2,Eixample,2022,Arbrat emergències (perill per a les persones),la Sagrada Família,16900000,,Manteniment de l'espai urbà,4584107,431259,,1,NO VOL RESPOSTA,236,Arbrat,27,1,Carrer,2022,1,TELÈFON,de Padilla,6,39,INCIDENCIA,2
+,,2022,Portal de tràmits,,16900007,,Portal de tràmits,,,,1,EMAIL,,Relacions amb l'Ajuntament,,1,,2022,1,WEB,,,40,CONSULTA,2
+,,2022,Oferta pública,,16900033,,Portal de tràmits,,,,1,EMAIL,,Relacions amb l'Ajuntament,,1,,2022,1,WEB,,,41,CONSULTA,2
+9,Sant Andreu,2022,Enllumenat incidències,Sant Andreu,16899996,,Manteniment de l'espai urbà,4587382,432062,,1,IMMEDIATA,29,Enllumenat públic,44,1,Carrer,2022,1,TELÈFON,de Bascònia,60,42,INCIDENCIA,2
+,,2022,Portal de tràmits,,16900012,,Portal de tràmits,,,,1,EMAIL,,Relacions amb l'Ajuntament,,1,,2022,1,WEB,,,43,CONSULTA,2
+,,2022,Oferta pública,,16900013,,Portal de tràmits,,,,1,EMAIL,,Relacions amb l'Ajuntament,,1,,2022,1,WEB,,,44,CONSULTA,2
+,,2022,Carpeta ciutadà,,16900025,,Portal de tràmits,,,,1,EMAIL,,Relacions amb l'Ajuntament,,1,,2022,1,WEB,,,45,CONSULTA,2
+,,2022,Oferta pública,,16900027,,Portal de tràmits,,,,1,EMAIL,,Relacions amb l'Ajuntament,,1,,2022,1,WEB,,,46,CONSULTA,2
+,,2022,Oferta pública,,16900034,,Portal de tràmits,,,,1,EMAIL,,Relacions amb l'Ajuntament,,1,,2022,1,WEB,,,47,CONSULTA,2
+,,2022,Carpeta ciutadà,,16900029,,Portal de tràmits,,,,1,EMAIL,,Relacions amb l'Ajuntament,,1,,2022,1,WEB,,,48,CONSULTA,2
+,,2022,Rec. animals morts en espais privats,,16900010,,Gestions municipals,,,,1,IMMEDIATA,,Recollida i neteja de l'espai urbà,,1,,2022,1,TELÈFON,,,49,PETICIO DE SERVEI,2
+,,2022,Oferta pública,,16900032,,Portal de tràmits,,,,1,EMAIL,,Relacions amb l'Ajuntament,,1,,2022,1,WEB,,,50,CONSULTA,2
+,,2022,Carpeta ciutadà,,16900028,,Portal de tràmits,,,,1,EMAIL,,Relacions amb l'Ajuntament,,1,,2022,1,WEB,,,51,CONSULTA,2
+,,2022,Oferta pública,,16900030,,Portal de tràmits,,,,1,EMAIL,,Relacions amb l'Ajuntament,,1,,2022,1,WEB,,,52,CONSULTA,2
+10,Sant Martí,2022,Enllumenat incidències,la Verneda i la Pau,16899997,,Manteniment de l'espai urbà,4585928,434013,,1,IMMEDIATA,287,Enllumenat públic,142,1,Carrer,2022,1,TELÈFON,D'andrade,73,53,INCIDENCIA,2
+10,Sant Martí,2022,Semàfor incidències,la Vila Olímpica del Poblenou,16899993,,Manteniment de l'espai urbà,4582514,432240,,1,IMMEDIATA,64,Semàfors,,1,,2022,1,WEB,de Sardenya,67,54,INCIDENCIA,2
+6,Gràcia,2022,Escala mecànica incidències,Vallcarca i els Penitents,16900036,,Manteniment de l'espai urbà,4584703,428810,,1,SMS,13,Escales mecàniques,,1,,2022,1,WEB,Bda de la Glòria,28,55,INCIDENCIA,2
+6,Gràcia,2022,Semàfor incidències,la Salut,16899995,,Manteniment de l'espai urbà,4584445,428977,,1,IMMEDIATA,10,Semàfors,,1,,2022,1,WEB,de la Mare de Déu del Coll,30,56,INCIDENCIA,2
+3,Sants-Montjuïc,2022,Parcs jardins i zones verdes emergències (perill),el Poble-sec,16900040,,Manteniment de l'espai urbà,4580185,429634,,1,NO VOL RESPOSTA,38,Parcs jardins i zones verdes,24,1,Passeig,2022,1,TELÈFON,Pg de Santa Madrona,11,57,INCIDENCIA,2
+10,Sant Martí,2022,Semàfor incidències,la Vila Olímpica del Poblenou,16899994,,Manteniment de l'espai urbà,4582607,432352,,1,IMMEDIATA,68,Semàfors,,1,,2022,1,WEB,de la Marina,67,58,INCIDENCIA,2
+8,Nou Barris,2022,Jocs infantils incidències,la Guineueta,16900041,,Manteniment de l'espai urbà,4588156,430883,,2,SMS,41,Jocs infantils,,1,,2022,1,WEB,de L'artesania,48,59,INCIDENCIA,2
+,,2022,Oferta pública,,16900039,,Portal de tràmits,,,,2,EMAIL,,Relacions amb l'Ajuntament,,1,,2022,1,WEB,,,60,CONSULTA,2
+,,2022,Dades obertes,,16900549,,Dades de la ciutat,,,,1,EMAIL,,Dades Obertes,,1,,2022,1,WEB,,,3302,CONSULTA,10
+,,2022,Oferta pública,,16900037,,Portal de tràmits,,,,2,EMAIL,,Relacions amb l'Ajuntament,,1,,2022,1,WEB,,,61,CONSULTA,2
+8,Nou Barris,2022,Jocs infantils incidències,la Guineueta,16900043,,Manteniment de l'espai urbà,4588156,430883,,2,SMS,41,Jocs infantils,,1,,2022,1,WEB,de L'artesania,48,62,INCIDENCIA,2
+,,2022,Oferta pública,,16900038,,Portal de tràmits,,,,2,EMAIL,,Relacions amb l'Ajuntament,,1,,2022,1,WEB,,,63,CONSULTA,2
+8,Nou Barris,2022,Jocs infantils incidències,la Guineueta,16900042,,Manteniment de l'espai urbà,4588156,430883,,2,SMS,41,Jocs infantils,,1,,2022,1,WEB,de L'artesania,48,64,INCIDENCIA,2
+,,2022,Portal de tràmits,,16900015,,Portal de tràmits,,,,2,EMAIL,,Relacions amb l'Ajuntament,,1,,2022,1,WEB,,,65,CONSULTA,2
+,,2022,Portal de tràmits,,16900014,,Portal de tràmits,,,,2,EMAIL,,Relacions amb l'Ajuntament,,1,,2022,1,WEB,,,66,CONSULTA,2
+9,Sant Andreu,2022,Semàfor incidències,la Sagrera,16900022,,Manteniment de l'espai urbà,4586247,432058,,2,IMMEDIATA,322,Semàfors,,1,,2022,1,WEB,Av Meridiana,61,67,INCIDENCIA,2
+,,2022,Portal de tràmits,,16900016,,Portal de tràmits,,,,2,EMAIL,,Relacions amb l'Ajuntament,,1,,2022,1,WEB,,,68,CONSULTA,2
+2,Eixample,2022,Fuita aigua neta de companyia o particular,Sant Antoni,16899998,,Manteniment de l'espai urbà,4580964,429683,,2,NO VOL RESPOSTA,120,Fuites d'aigua neta,168,1,Carrer,2022,1,TELÈFON,de Tamarit,10,69,INCIDENCIA,2
+,,2022,Oferta pública,,16900035,,Portal de tràmits,,,,2,EMAIL,,Relacions amb l'Ajuntament,,1,,2022,1,WEB,,,70,CONSULTA,2
+,,2022,Disconformitat servei autobusos TMB,,16890014,,Transports públics,,,,2,EMAIL,,Autobusos TMB,,1,,2021,7,TELÈFON,,,71,QUEIXA,3
+,,2022,Disconformitat servei autobusos TMB,,16890007,,Transports públics,,,,27,EMAIL,,Autobusos TMB,,1,,2021,9,TELÈFON,,,72,QUEIXA,3
+,,2022,Disconformitat servei autobusos TMB,,16890012,,Transports públics,,,,27,EMAIL,,Autobusos TMB,,1,,2021,9,RECLAMACIÓ INTERNA,,,73,QUEIXA,3
+,,2022,Disconformitat servei autobusos TMB,,16890009,,Transports públics,,,,30,EMAIL,,Autobusos TMB,,1,,2021,9,TELÈFON,,,74,QUEIXA,3
+,,2022,Disconformitat servei autobusos TMB,,16890010,,Transports públics,,,,1,EMAIL,,Autobusos TMB,,1,,2021,10,TELÈFON,,,75,QUEIXA,3
+,,2022,Disconformitat servei autobusos TMB,,16890011,,Transports públics,,,,6,EMAIL,,Autobusos TMB,,1,,2021,10,TELÈFON,,,76,QUEIXA,3
+,,2022,Disconformitat servei autobusos TMB,,16890013,,Transports públics,,,,8,EMAIL,,Autobusos TMB,,1,,2021,10,WEB,,,77,QUEIXA,3
+,,2022,Disconformitat servei autobusos TMB,,16890015,,Transports públics,,,,12,EMAIL,,Autobusos TMB,,1,,2021,10,WEB,,,78,QUEIXA,3
+,,2022,Disconformitat servei autobusos TMB,,16890016,,Transports públics,,,,19,EMAIL,,Autobusos TMB,,1,,2021,10,WEB,,,79,QUEIXA,3
+,,2022,Inseguretat autobusos TMB,,16890017,,Transports públics,,,,29,EMAIL,,Autobusos TMB,,1,,2021,10,TELÈFON,,,80,QUEIXA,3
+,,2022,Modificació parada BUS per obres,,16890005,,Transports públics,,,,3,EMAIL,,Autobusos TMB,,1,,2021,11,TELÈFON,,,81,QUEIXA,3
+10,Sant Martí,2022,Aparcament bicicleta nou / canvi lloc,Provençals del Poblenou,16890008,,Mobilitat,4585180,433457,,11,EMAIL,1084,Bicicletes,103,1,Gran Via,2021,11,RECLAMACIÓ INTERNA,G.v. de Les Corts Catalanes,71,82,SUGGERIMENT,3
+,,2022,Comportament personal autobusos TMB,,16889998,,Transports públics,,,,12,EMAIL,,Autobusos TMB,,1,,2021,11,TELÈFON,,,83,QUEIXA,3
+,,2022,Metro incidències servei,,16890020,,Transports públics,,,,15,EMAIL,,Metro,,1,,2021,11,TELÈFON,,,84,INCIDENCIA,3
+,,2022,Metro comportament personal,,16889999,,Transports públics,,,,15,EMAIL,,Metro,,1,,2021,11,TELÈFON,,,85,QUEIXA,3
+4,Les Corts,2022,Convivència veïnal,la Maternitat i Sant Ramon,16889997,,Prevenció i seguretat,4581036,426727,,15,EMAIL,42,Incompliment d'ordenances a l'espai privat,40,1,Carrer,2021,11,TELÈFON,del Regent Mendieta,20,86,QUEIXA,3
+5,Sarrià-Sant Gervasi,2022,Objectes a netejar / retirar,Vallvidrera  el Tibidabo i les Planes,16896022,,Recollida i neteja de l'espai urbà,4586615,424852,,15,SMS,6,Neteja carrers i/o places,1,1,Carrer,2021,11,RECLAMACIÓ INTERNA,dels Geranis,22,87,INCIDENCIA,3
+4,Les Corts,2022,Objectes a netejar / retirar,les Corts,16889994,,Recollida i neteja de l'espai urbà,4581529,427148,,17,EMAIL,2,Neteja carrers i/o places,34,1,Carrer,2021,11,TELÈFON,de Gerard Piera,19,88,INCIDENCIA,3
+,,2022,Correu Regidoria/Correu Gerència,,16890021,,Informació  tràmits i atenció ciutadana,,,,18,EMAIL,,Regidoria/Gerència Districtes,,1,,2021,11,WEB,,,89,SUGGERIMENT,3
+4,Les Corts,2022,Aparcament bicicleta nou / canvi lloc,les Corts,16890004,,Mobilitat,4581819,427688,,19,EMAIL,18,Bicicletes,,1,Carrer,2021,11,WEB,del Marquès de Sentmenat,19,90,SUGGERIMENT,3
+7,Horta-Guinardó,2022,Parcs jardins i zones verdes nova/canvi de lloc,el Carmel,16890000,,Manteniment de l'espai urbà,4585819,429389,,20,EMAIL,128,Parcs jardins i zones verdes,64,1,Carrer,2021,11,TELÈFON,de la Murtra,37,91,SUGGERIMENT,3
+9,Sant Andreu,2022,Festes i activitats esportives,la Sagrera,16889995,,Prevenció i seguretat,4586000,432497,,20,EMAIL,8,Molèsties soroll a la via pública,,1,Carrer,2021,11,WEB,del Pont de Sant Martí,61,92,QUEIXA,3
+5,Sarrià-Sant Gervasi,2022,Festes i activitats esportives,el Putxet i el Farró,16889996,,Prevenció i seguretat,4583920,428824,,20,EMAIL,1,Molèsties soroll a la via pública,82,1,Plaça,2021,11,TELÈFON,Pl de Mañé i Flaquer,27,93,QUEIXA,3
+3,Sants-Montjuïc,2022,Barana disconforme manteniment,el Poble-sec,16890001,,Manteniment de l'espai urbà,4580273,428897,,22,EMAIL,7,Baranes,24,1,Avinguda,2021,11,TELÈFON,Av de Francesc Ferrer i Guàrdia,11,94,QUEIXA,3
+6,Gràcia,2022,Molèsties obres a la via pública,la Vila de Gràcia,16889992,,Urbanisme,4583336,429878,,22,EMAIL,5,Altres obres a la via pública,,1,Carrer,2021,11,WEB,del Torrent de L'olla,31,95,QUEIXA,3
+3,Sants-Montjuïc,2022,Senyal vertical nou / canvi de lloc,el Poble-sec,16890002,,Manteniment de l'espai urbà,4580316,430107,,22,EMAIL,101,Senyalització vertical trànsit,,1,Carrer,2021,11,WEB,del Poeta Cabanyes,11,96,SUGGERIMENT,3
+,,2022,Portal de tràmits,,16889991,,Portal de tràmits,,,,26,EMAIL,,Relacions amb l'Ajuntament,,1,,2021,11,WEB,,,97,CONSULTA,3
+5,Sarrià-Sant Gervasi,2022,Objectes a netejar / retirar,Sant Gervasi - Galvany,16890006,,Recollida i neteja de l'espai urbà,4583347,427694,,26,SMS,74,Neteja carrers i/o places,49,1,Carrer,2021,11,WEB,de Ganduxer,26,98,INCIDENCIA,3

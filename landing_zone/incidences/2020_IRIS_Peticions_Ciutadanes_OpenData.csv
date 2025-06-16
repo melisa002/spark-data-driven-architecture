@@ -1,0 +1,101 @@
+CODI_DISTRICTE,DISTRICTE,ANY_DATA_TANCAMENT,DETALL,BARRI,FITXA_ID,LATITUD,AREA,COORDENADA_Y,COORDENADA_X,LONGITUD,DIA_DATA_ALTA,CANALS_RESPOSTA,NUMERO,ELEMENT,SECCIO_CENSAL,MES_DATA_TANCAMENT,TIPUS_VIA,ANY_DATA_ALTA,MES_DATA_ALTA,SUPORT,CARRER,CODI_BARRI,_id,TIPUS,DIA_DATA_TANCAMENT
+10,Sant Martí,2020,Alarmes,el Poblenou,6001,41.39536,Prevenció i seguretat,4582955,433115,2.19993,13,EMAIL,24,Molèsties soroll a la via pública,56,1,Carrer,2019,12,TELÈFON,Badajoz,68,1,QUEIXA,1
+10,Sant Martí,2020,Bicicletes disciplina viària,el Camp de l'Arpa del Clot,6002,41.40959,Mobilitat,4584551,431402,2.17925,16,NO VOL RESPOSTA,500,Bicicletes,12,1,Carrer,2019,12,ALTRES SUPORTS,Rossello,64,2,QUEIXA,1
+10,Sant Martí,2020,Vehicles motor disciplina viària,Sant Martí de Provençals,15001,41.41671,Mobilitat,4585331,432635,2.19391,24,EMAIL,257,Vehicles a motor,113,1,Carrer,2019,12,WEB,Fluvia,72,3,QUEIXA,1
+1,Ciutat Vella,2020,Manteniment xarxa privada,el Raval,21056,41.37832,Manteniment de l'espai urbà,4581089,430444,2.16819,28,EMAIL,17,Xarxa elèctrica / comunicacions privada,8,1,Carrer,2019,12,MÒBIL,Riereta,1,4,INCIDENCIA,1
+,,2020,Portal de tràmits,,21007,,Portal de tràmits,,,,30,EMAIL,,Relacions amb l'Ajuntament,,1,,2019,12,WEB,,,5,CONSULTA,1
+,,2020,Carpeta ciutadà,,21002,,Portal de tràmits,,,,30,EMAIL,,Relacions amb l'Ajuntament,,1,,2019,12,WEB,,,6,CONSULTA,1
+,,2020,Informació sobre la recollida de mobles,,21029,,Medi ambient,,,,30,EMAIL,,Neteja,,1,,2019,12,WEB,,,7,CONSULTA,1
+,,2020,Carpeta ciutadà,,21004,,Portal de tràmits,,,,30,EMAIL,,Relacions amb l'Ajuntament,,1,,2019,12,WEB,,,8,CONSULTA,1
+,,2020,Portal de tràmits,,21010,,Portal de tràmits,,,,30,EMAIL,,Relacions amb l'Ajuntament,,1,,2019,12,WEB,,,9,CONSULTA,1
+,,2020,Ajuts lloguer i borsa habitatge de lloguer,,21028,,Habitatge,,,,30,EMAIL,,Informació,,1,,2019,12,WEB,,,10,CONSULTA,1
+,,2020,Carpeta ciutadà,,21009,,Portal de tràmits,,,,30,EMAIL,,Relacions amb l'Ajuntament,,1,,2019,12,WEB,,,11,CONSULTA,1
+,,2020,Carpeta ciutadà,,21006,,Portal de tràmits,,,,30,EMAIL,,Relacions amb l'Ajuntament,,1,,2019,12,WEB,,,12,CONSULTA,1
+,,2020,Carpeta ciutadà,,21005,,Portal de tràmits,,,,30,EMAIL,,Relacions amb l'Ajuntament,,1,,2019,12,WEB,,,13,CONSULTA,1
+,,2020,Carpeta ciutadà,,21011,,Portal de tràmits,,,,30,EMAIL,,Relacions amb l'Ajuntament,,1,,2019,12,WEB,,,14,CONSULTA,1
+,,2020,Portal de tràmits,,21003,,Portal de tràmits,,,,30,EMAIL,,Relacions amb l'Ajuntament,,1,,2019,12,WEB,,,15,CONSULTA,1
+,,2020,Carpeta ciutadà,,21008,,Portal de tràmits,,,,30,EMAIL,,Relacions amb l'Ajuntament,,1,,2019,12,WEB,,,16,CONSULTA,1
+,,2020,Oferta pública,,21001,,Portal de tràmits,,,,30,EMAIL,,Relacions amb l'Ajuntament,,1,,2019,12,WEB,,,17,CONSULTA,1
+,,2020,Portal de tràmits,,21012,,Portal de tràmits,,,,30,EMAIL,,Relacions amb l'Ajuntament,,1,,2019,12,WEB,,,18,CONSULTA,1
+,,2020,Portal de tràmits,,21023,,Portal de tràmits,,,,31,EMAIL,,Relacions amb l'Ajuntament,,1,,2019,12,WEB,,,19,CONSULTA,1
+,,2020,Oficina Virtual de Tràmits,,21013,,Portal de tràmits,,,,31,EMAIL,,Relacions amb l'Ajuntament,,1,,2019,12,WEB,,,20,CONSULTA,1
+,,2020,Portal de tràmits,,21030,,Portal de tràmits,,,,31,EMAIL,,Relacions amb l'Ajuntament,,1,,2019,12,WEB,,,21,CONSULTA,1
+,,2020,Portal de tràmits,,21022,,Portal de tràmits,,,,31,EMAIL,,Relacions amb l'Ajuntament,,1,,2019,12,WEB,,,22,CONSULTA,1
+,,2020,Certificats urbanístics,,21016,,Urbanisme,,,,31,EMAIL,,Qualificació urbanística,,1,,2019,12,WEB,,,23,CONSULTA,1
+,,2020,Portal de tràmits,,21020,,Portal de tràmits,,,,31,EMAIL,,Relacions amb l'Ajuntament,,1,,2019,12,WEB,,,24,CONSULTA,1
+,,2020,Carpeta ciutadà,,21015,,Portal de tràmits,,,,31,EMAIL,,Relacions amb l'Ajuntament,,1,,2019,12,WEB,,,25,CONSULTA,1
+,,2020,Portal de tràmits,,21018,,Portal de tràmits,,,,31,EMAIL,,Relacions amb l'Ajuntament,,1,,2019,12,WEB,,,26,CONSULTA,1
+,,2020,Normativa i preu,,21031,,Transports públics,,,,31,EMAIL,,Títols transports,,1,,2019,12,TELÈFON,,,27,QUEIXA,1
+,,2020,Portal de tràmits,,21014,,Portal de tràmits,,,,31,EMAIL,,Relacions amb l'Ajuntament,,1,,2019,12,WEB,,,28,CONSULTA,1
+,,2020,Portal de tràmits,,21021,,Portal de tràmits,,,,31,EMAIL,,Relacions amb l'Ajuntament,,1,,2019,12,WEB,,,29,CONSULTA,1
+,,2020,Portal de tràmits,,21017,,Portal de tràmits,,,,31,EMAIL,,Relacions amb l'Ajuntament,,1,,2019,12,WEB,,,30,CONSULTA,1
+,,2020,Portal de tràmits,,21024,,Portal de tràmits,,,,31,EMAIL,,Relacions amb l'Ajuntament,,1,,2019,12,WEB,,,31,CONSULTA,1
+,,2020,Targeta de resident de l'àrea verda,,21026,,Portal de tràmits,,,,31,EMAIL,,Habitatge  negocis  professionals i vehicles,,1,,2019,12,WEB,,,32,CONSULTA,1
+,,2020,Carpeta ciutadà,,21025,,Portal de tràmits,,,,31,EMAIL,,Relacions amb l'Ajuntament,,1,,2019,12,WEB,,,33,CONSULTA,1
+,,2020,Afectacions al trànsit,,21019,,Mobilitat,,,,31,EMAIL,,Vehicle privat (cotxe  moto),,1,,2019,12,WEB,,,34,CONSULTA,1
+,,2020,Portal de tràmits,,21046,,Portal de tràmits,,,,31,EMAIL,,Relacions amb l'Ajuntament,,1,,2019,12,WEB,,,35,CONSULTA,1
+,,2020,Cèdula d'habitabilitat,,21045,,Habitatge,,,,31,EMAIL,,Informació,,1,,2019,12,WEB,,,36,CONSULTA,1
+,,2020,Rec. animals morts en espais privats,,21038,,Gestions municipals,,,,31,IMMEDIATA,,Recollida i neteja de l'espai urbà,,1,,2019,12,TELÈFON,,,37,PETICIO DE SERVEI,1
+,,2020,Portal de tràmits,,21042,,Portal de tràmits,,,,31,EMAIL,,Relacions amb l'Ajuntament,,1,,2019,12,WEB,,,38,CONSULTA,1
+7,Horta-Guinardó,2020,Manteniment xarxa privada,Horta,21055,41.43078,Manteniment de l'espai urbà,4586918,429925,2.1613,31,NO VOL RESPOSTA,41,Xarxa elèctrica / comunicacions privada,117,1,Carrer,2019,12,TELÈFON,Horta,43,39,INCIDENCIA,1
+,,2020,Portal de tràmits,,21044,,Portal de tràmits,,,,31,EMAIL,,Relacions amb l'Ajuntament,,1,,2019,12,WEB,,,40,CONSULTA,1
+,,2020,Carpeta ciutadà,,21043,,Portal de tràmits,,,,31,EMAIL,,Relacions amb l'Ajuntament,,1,,2019,12,WEB,,,41,CONSULTA,1
+4,Les Corts,2020,Objectes a netejar / retirar,les Corts,21040,41.38546,Recollida i neteja de l'espai urbà,4581905,428076,2.13978,1,SMS,73,Neteja carrers i/o places,15,1,Carrer,2020,1,MÒBIL,Marques de Sentmenat,19,42,INCIDENCIA,1
+8,Nou Barris,2020,Objectes a netejar / retirar,la Prosperitat,21048,41.44528,Recollida i neteja de l'espai urbà,4588509,431964,2.18552,1,EMAIL,1,Neteja carrers i/o places,97,1,Plaça,2020,1,MÒBIL,Nou Barris,52,43,INCIDENCIA,1
+3,Sants-Montjuïc,2020,Contenidors paper / plàstic / vidre,el Poble-sec,21049,41.37426,Recollida i neteja de l'espai urbà,4580645,429616,2.15834,1,SMS,9,Recollida brossa neta,1,1,Carrer,2020,1,MÒBIL,Ricart,11,44,INCIDENCIA,1
+,,2020,Rec. animals morts en espais privats,,21039,,Gestions municipals,,,,1,IMMEDIATA,,Recollida i neteja de l'espai urbà,,1,,2020,1,TELÈFON,,,45,PETICIO DE SERVEI,1
+10,Sant Martí,2020,Objectes a netejar / retirar,Diagonal Mar i el Front Marítim del Poblenou,21047,41.40182,Recollida i neteja de l'espai urbà,4583664,434068,2.21125,1,EMAIL,1,Neteja carrers i/o places,78,1,Carrer,2020,1,MÒBIL,Bac de Roda,69,46,INCIDENCIA,1
+3,Sants-Montjuïc,2020,Ascensor urbà incidències,Sants,21051,41.37133,Manteniment de l'espai urbà,4580342,427438,2.13233,1,NO VOL RESPOSTA,116,Ascensors urbans,98,1,Rambla,2020,1,TELÈFON,Badal,18,47,INCIDENCIA,1
+2,Eixample,2020,Fuita aigua neta de companyia o particular,la Sagrada Família,21053,41.40585,Manteniment de l'espai urbà,4584137,431370,2.17892,1,NO VOL RESPOSTA,472,Fuites d'aigua neta,28,1,Carrer,2020,1,TELÈFON,Mallorca,6,48,INCIDENCIA,1
+3,Sants-Montjuïc,2020,Contenidors paper / plàstic / vidre,Hostafrancs,21050,41.37497,Recollida i neteja de l'espai urbà,4580733,428762,2.14812,1,EMAIL,5,Recollida brossa neta,53,1,Plaça,2020,1,MÒBIL,Espanya,15,49,INCIDENCIA,1
+,,2020,Estat de la meva sol·licitud,,11,,Transports públics,,,,25,NO VOL RESPOSTA,,Targeta T16,,1,,2019,9,TELÈFON,,,61,INCIDENCIA,2
+2,Eixample,2020,Manteniment xarxa privada,la Dreta de l'Eixample,21036,41.38764,Manteniment de l'espai urbà,4582121,430691,2.17103,1,NO VOL RESPOSTA,14,Xarxa elèctrica / comunicacions privada,77,1,Plaça,2020,1,ALTRES SUPORTS,Catalunya,7,50,INCIDENCIA,1
+4,Les Corts,2020,Objectes a netejar / retirar,les Corts,21037,41.38346,Recollida i neteja de l'espai urbà,4581683,428019,2.13912,1,EMAIL,55,Neteja carrers i/o places,3,1,Carrer,2020,1,MÒBIL,Berlin,19,51,INCIDENCIA,1
+1,Ciutat Vella,2020,Objectes a netejar / retirar,la Barceloneta,21054,41.38172,Recollida i neteja de l'espai urbà,4581452,432017,2.18695,1,EMAIL,1,Neteja carrers i/o places,42,1,Passeig,2020,1,MÒBIL,Joan de Borbo Comte de Barcelona,3,52,INCIDENCIA,1
+9,Sant Andreu,2020,Enllumenat fanal / pal incidències,la Sagrera,21052,41.42338,Manteniment de l'espai urbà,4586077,432031,2.1866,1,NO VOL RESPOSTA,287,Enllumenat públic,69,1,Avinguda,2020,1,TELÈFON,Meridiana,61,53,INCIDENCIA,1
+4,Les Corts,2020,Objectes a netejar / retirar,les Corts,21041,41.38611,Recollida i neteja de l'espai urbà,4581978,428040,2.13934,1,SMS,12,Neteja carrers i/o places,15,1,Carrer,2020,1,MÒBIL,Taquigraf Serra,19,54,INCIDENCIA,1
+1,Ciutat Vella,2020,Vorera tapa,Sant Pere  Santa Caterina i la Ribera,21035,41.38406,Manteniment de l'espai urbà,4581715,431526,2.18106,1,NO VOL RESPOSTA,9,Voreres,45,1,Carrer,2020,1,TELÈFON,Mirallers,4,55,INCIDENCIA,1
+6,Gràcia,2020,Escala mecànica incidències,la Salut,21027,41.41112,Manteniment de l'espai urbà,4584742,429270,2.15372,1,NO VOL RESPOSTA,20,Escales mecàniques,22,1,Avinguda,2020,1,TELÈFON,Santuari de Sant Josep de la Muntanya,30,56,INCIDENCIA,1
+2,Eixample,2020,Objectes a netejar / retirar,Sant Antoni,21034,41.37698,Recollida i neteja de l'espai urbà,4580948,429610,2.15823,1,NO VOL RESPOSTA,13,Neteja carrers i/o places,157,1,Avinguda,2020,1,TELÈFON,Mistral,10,57,INCIDENCIA,1
+10,Sant Martí,2020,Objectes a netejar / retirar,el Parc i la Llacuna del Poblenou,21033,41.39713,Recollida i neteja de l'espai urbà,4583158,432525,2.19284,1,EMAIL,75,Neteja carrers i/o places,43,1,Carrer,2020,1,TELÈFON,Alaba,66,58,INCIDENCIA,1
+10,Sant Martí,2020,Objectes a netejar / retirar,la Verneda i la Pau,21032,41.41964,Recollida i neteja de l'espai urbà,4585648,433553,2.20486,1,SMS,0,Neteja carrers i/o places,127,1,Plaça,2020,1,TELÈFON,Palmera de Sant Marti,73,59,INCIDENCIA,1
+,,2020,Estat de la meva sol·licitud,,8,,Transports públics,,,,25,SMS,,Targeta T16,,1,,2019,9,TELÈFON,,,60,INCIDENCIA,2
+,,2020,Altres,,45230,,Esports,,,,8,EMAIL,,Subvencions esportives,,1,,2020,1,WEB,,,3537,SUGGERIMENT,8
+,,2020,Estat de la meva sol·licitud,,24,,Transports públics,,,,25,EMAIL,,Targeta T16,,1,,2019,9,TELÈFON,,,62,INCIDENCIA,2
+,,2020,Estat de la meva sol·licitud,,18,,Transports públics,,,,25,NO VOL RESPOSTA,,Targeta T16,,1,,2019,9,TELÈFON,,,63,INCIDENCIA,2
+,,2020,Estat de la meva sol·licitud,,20,,Transports públics,,,,25,SMS,,Targeta T16,,1,,2019,9,TELÈFON,,,64,INCIDENCIA,2
+,,2020,Estat de la meva sol·licitud,,1,,Transports públics,,,,25,EMAIL,,Targeta T16,,1,,2019,9,TELÈFON,,,65,INCIDENCIA,2
+,,2020,Estat de la meva sol·licitud,,14,,Transports públics,,,,25,SMS,,Targeta T16,,1,,2019,9,TELÈFON,,,66,INCIDENCIA,2
+,,2020,Estat de la meva sol·licitud,,13,,Transports públics,,,,25,NO VOL RESPOSTA,,Targeta T16,,1,,2019,9,TELÈFON,,,67,INCIDENCIA,2
+,,2020,Estat de la meva sol·licitud,,7,,Transports públics,,,,25,NO VOL RESPOSTA,,Targeta T16,,1,,2019,9,TELÈFON,,,68,INCIDENCIA,2
+,,2020,Estat de la meva sol·licitud,,23,,Transports públics,,,,25,NO VOL RESPOSTA,,Targeta T16,,1,,2019,9,TELÈFON,,,69,INCIDENCIA,2
+,,2020,Estat de la meva sol·licitud,,6,,Transports públics,,,,25,NO VOL RESPOSTA,,Targeta T16,,1,,2019,9,TELÈFON,,,70,INCIDENCIA,2
+,,2020,Estat de la meva sol·licitud,,17,,Transports públics,,,,25,SMS,,Targeta T16,,1,,2019,9,TELÈFON,,,71,INCIDENCIA,2
+,,2020,Estat de la meva sol·licitud,,12,,Transports públics,,,,25,SMS,,Targeta T16,,1,,2019,9,TELÈFON,,,72,INCIDENCIA,2
+,,2020,Estat de la meva sol·licitud,,16,,Transports públics,,,,25,NO VOL RESPOSTA,,Targeta T16,,1,,2019,9,TELÈFON,,,73,INCIDENCIA,2
+,,2020,Estat de la meva sol·licitud,,22,,Transports públics,,,,25,NO VOL RESPOSTA,,Targeta T16,,1,,2019,9,TELÈFON,,,74,INCIDENCIA,2
+,,2020,Estat de la meva sol·licitud,,21,,Transports públics,,,,25,NO VOL RESPOSTA,,Targeta T16,,1,,2019,9,TELÈFON,,,75,INCIDENCIA,2
+,,2020,Estat de la meva sol·licitud,,25,,Transports públics,,,,25,SMS,,Targeta T16,,1,,2019,9,TELÈFON,,,76,INCIDENCIA,2
+,,2020,Estat de la meva sol·licitud,,27,,Transports públics,,,,25,NO VOL RESPOSTA,,Targeta T16,,1,,2019,9,TELÈFON,,,77,INCIDENCIA,2
+,,2020,Estat de la meva sol·licitud,,2,,Transports públics,,,,25,NO VOL RESPOSTA,,Targeta T16,,1,,2019,9,TELÈFON,,,78,INCIDENCIA,2
+,,2020,Estat de la meva sol·licitud,,26,,Transports públics,,,,25,NO VOL RESPOSTA,,Targeta T16,,1,,2019,9,TELÈFON,,,79,INCIDENCIA,2
+,,2020,Estat de la meva sol·licitud,,15,,Transports públics,,,,25,NO VOL RESPOSTA,,Targeta T16,,1,,2019,9,TELÈFON,,,80,INCIDENCIA,2
+,,2020,Estat de la meva sol·licitud,,10,,Transports públics,,,,25,EMAIL,,Targeta T16,,1,,2019,9,TELÈFON,,,81,INCIDENCIA,2
+,,2020,Estat de la meva sol·licitud,,9,,Transports públics,,,,25,NO VOL RESPOSTA,,Targeta T16,,1,,2019,9,TELÈFON,,,82,INCIDENCIA,2
+10,Sant Martí,2020,Zona gossos nova / canvi de lloc,el Camp de l'Arpa del Clot,3,41.41022,Manteniment de l'espai urbà,4584622,431408,2.17932,27,EMAIL,11,Zona gossos,11,1,Carrer,2019,9,WEB,Freser,64,83,SUGGERIMENT,2
+10,Sant Martí,2020,Zona gossos nova / canvi de lloc,el Camp de l'Arpa del Clot,4,41.40988,Manteniment de l'espai urbà,4584583,431438,2.17967,27,EMAIL,512,Zona gossos,12,1,Carrer,2019,9,WEB,Rossello,64,84,SUGGERIMENT,2
+10,Sant Martí,2020,Zona gossos nova / canvi de lloc,el Camp de l'Arpa del Clot,5,41.41038,Manteniment de l'espai urbà,4584639,431498,2.18039,29,EMAIL,520,Zona gossos,12,1,Carrer,2019,9,WEB,Rossello,64,85,SUGGERIMENT,2
+6,Gràcia,2020,Espais privats incidències,Vallcarca i els Penitents,19,41.41234,Manteniment de l'espai urbà,4584885,428584,2.14549,10,EMAIL,3,Espais privats,6,1,Carrer,2019,10,WEB,Gustavo Becquer,28,86,INCIDENCIA,2
+10,Sant Martí,2020,Zona gossos nova / canvi de lloc,el Camp de l'Arpa del Clot,1015,41.41023,Manteniment de l'espai urbà,4584622,431409,2.17932,1,EMAIL,11,Zona gossos,11,1,Carrer,2019,11,WEB,Freser,64,87,SUGGERIMENT,2
+,,2020,Incidències SAP,,1007,,Hisenda,,,,4,EMAIL,,Atenció ciutadans Hisenda,,1,,2019,11,TELÈFON,,,88,INCIDENCIA,2
+9,Sant Andreu,2020,Arbrat disconformitat poda,la Trinitat Vella,15009,41.44872,Manteniment de l'espai urbà,4588886,432509,2.19201,6,EMAIL,25,Arbrat,5,1,Carrer,2019,11,RECLAMACIÓ INTERNA,Tossal,57,89,QUEIXA,2
+,,2020,Carpeta empreses,,1066,,Portal de tràmits,,,,6,EMAIL,,Relacions amb l'Ajuntament,,1,,2019,11,RECLAMACIÓ INTERNA,,,90,CONSULTA,2
+6,Gràcia,2020,Solar municipal brut,Vallcarca i els Penitents,1050,41.41924,Recollida i neteja de l'espai urbà,4585662,427364,2.13081,7,EMAIL,1,Neteja solar municipal,9,1,Carrer,2019,11,TELÈFON,Maduixer,28,91,INCIDENCIA,2
+4,Les Corts,2020,Arbrat disconformitat poda,la Maternitat i Sant Ramon,1012,41.38039,Manteniment de l'espai urbà,4581353,426904,2.12582,10,EMAIL,45,Arbrat,39,1,Carrer,2019,11,RECLAMACIÓ INTERNA,Comandant Benitez,20,92,QUEIXA,2
+10,Sant Martí,2020,Vorera incidències,la Vila Olímpica del Poblenou,1036,41.39226,Manteniment de l'espai urbà,4582612,432997,2.19855,13,EMAIL,172,Voreres,55,1,Avinguda,2019,11,MÒBIL,Icaria,67,93,INCIDENCIA,2
+3,Sants-Montjuïc,2020,Niu cotorres en arbre suposa perill,Hostafrancs,15079,41.3728,Sanitat i salut pública,4580496,428426,2.14413,13,EMAIL,45,Servei de vigilància i control de plagues,54,1,Carretera,2019,11,RECLAMACIÓ INTERNA,Bordeta,15,94,INCIDENCIA,2
+10,Sant Martí,2020,Arbrat disconformitat poda,la Verneda i la Pau,15012,41.4228,Manteniment de l'espai urbà,4585998,433575,2.20509,14,EMAIL,53,Arbrat,139,1,Carrer,2019,11,RECLAMACIÓ INTERNA,Camp Arriassa,73,95,QUEIXA,2
+2,Eixample,2020,Arbrat disconformitat poda,Sant Antoni,1003,41.37565,Manteniment de l'espai urbà,4580798,429773,2.1602,14,EMAIL,11,Arbrat,173,1,Carrer,2019,11,WEB,Calabria,10,96,QUEIXA,2
+6,Gràcia,2020,Vorera incidències,Vallcarca i els Penitents,1051,41.41874,Manteniment de l'espai urbà,4585596,428467,2.14402,14,EMAIL,49,Voreres,11,1,Carrer,2019,11,WEB,Cardedeu,28,97,INCIDENCIA,2
+10,Sant Martí,2020,Arbrat disconformitat poda,la Verneda i la Pau,1002,41.42221,Manteniment de l'espai urbà,4585933,433516,2.20439,14,EMAIL,163,Arbrat,130,1,Rambla,2019,11,TELÈFON,Prim,73,98,QUEIXA,2
+6,Gràcia,2020,Netejar pintada o cartell ofensiu edificis privats  o en façanes d'escoles,el Camp d'en Grassot i Gràcia Nova,1001,41.40522,Recollida i neteja de l'espai urbà,4584076,430412,2.16746,16,SMS,13,Pintades / cartells,76,1,Passatge,2019,11,TELÈFON,Llavallol,32,99,INCIDENCIA,2

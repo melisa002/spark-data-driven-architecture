@@ -1,0 +1,101 @@
+CODI_DISTRICTE,DISTRICTE,ANY_DATA_TANCAMENT,DETALL,BARRI,FITXA_ID,LATITUD,AREA,COORDENADA_Y,COORDENADA_X,LONGITUD,DIA_DATA_ALTA,CANALS_RESPOSTA,NUMERO,ELEMENT,SECCIO_CENSAL,MES_DATA_TANCAMENT,TIPUS_VIA,ANY_DATA_ALTA,MES_DATA_ALTA,SUPORT,CARRER,CODI_BARRI,_id,TIPUS,DIA_DATA_TANCAMENT
+2,Eixample,2019,Semàfor incidències,Sant Antoni,803654,41.37584,Manteniment de l'espai urbà,4580827,429163,2.15289,30,EMAIL,6,Semàfors,150,1,Carrer,2018,12,MÒBIL,Sepúlveda,10,1,INCIDENCIA,1
+7,Horta-Guinardó,2019,Semàfor incidències,el Baix Guinardó,803659,41.41345,Manteniment de l'espai urbà,4584993,430069,2.16325,31,EMAIL,75,Semàfors,19,1,Carrer,2018,12,TELÈFON,Camèlies,33,2,INCIDENCIA,1
+8,Nou Barris,2019,Fuita aigua neta de companyia o particular,el Turó de la Peira,803648,41.43067,Manteniment de l'espai urbà,4586898,430842,2.17227,31,NO VOL RESPOSTA,0,Fuites d'aigua neta,43,1,Passatge,2018,12,TELÈFON,Grau,46,3,INCIDENCIA,1
+6,Gràcia,2019,Vorera tapa,la Vila de Gràcia,803647,41.40461,Manteniment de l'espai urbà,4584019,429317,2.15436,31,EMAIL,163,Voreres,39,1,Carrer,2018,12,TELÈFON,Torrent de l'Olla,31,4,INCIDENCIA,1
+10,Sant Martí,2019,Contenidors brossa neta desplaçat,Sant Martí de Provençals,803646,41.41675,Recollida i neteja de l'espai urbà,4585334,432851,2.19649,31,EMAIL,260,Recollida brossa neta,111,1,Carrer,2018,12,TELÈFON,Provençals,72,5,INCIDENCIA,1
+2,Eixample,2019,Vorera tapa,l'Antiga Esquerra de l'Eixample,803653,41.38494,Manteniment de l'espai urbà,4581835,429387,2.15546,31,NO VOL RESPOSTA,128,Voreres,97,1,Carrer,2018,12,TELÈFON,Aragó,8,6,INCIDENCIA,1
+2,Eixample,2019,Objectes a netejar / retirar,Sant Antoni,803658,41.38179,Recollida i neteja de l'espai urbà,4581478,430041,2.16332,1,NO VOL RESPOSTA,35,Neteja carrers i/o places,166,1,Ronda,2019,1,TELÈFON,Sant Antoni,10,7,INCIDENCIA,1
+1,Ciutat Vella,2019,Objectes a netejar / retirar,el Raval,803657,41.37984,Recollida i neteja de l'espai urbà,4581255,430726,2.17153,1,EMAIL,15,Neteja carrers i/o places,6,1,Carrer,2019,1,TELÈFON,Junta de Comerç,1,8,INCIDENCIA,1
+7,Horta-Guinardó,2019,"Orins, excrements humans",el Guinardó,803656,41.4225,Recollida i neteja de l'espai urbà,4585987,431265,2.17744,1,EMAIL,220,Neteja carrers i/o places,44,1,Ronda,2019,1,MÒBIL,Guinardó,35,9,INCIDENCIA,1
+8,Nou Barris,2019,Recollida mobles abandonats al carrer,la Prosperitat,803655,41.44005,Recollida i neteja de l'espai urbà,4587933,431416,2.17902,1,EMAIL,3,Recollida de mobles i trastos vells,85,1,Plaça,2019,1,MÒBIL,Prosperitat,52,10,INCIDENCIA,1
+3,Sants-Montjuïc,2019,Objectes a netejar / retirar,Sants,803651,41.37748,Recollida i neteja de l'espai urbà,4581026,427429,2.13213,1,SMS,74,Neteja carrers i/o places,92,1,Carrer,2019,1,TELÈFON,Miquel Àngel,18,11,INCIDENCIA,1
+2,Eixample,2019,Recollida animals morts espai públic,la Sagrada Família,803650,41.40288,Recollida i neteja de l'espai urbà,4583811,431023,2.17479,1,EMAIL,408,Recollida animals morts,51,1,Carrer,2019,1,TELÈFON,Mallorca,6,12,INCIDENCIA,1
+4,Les Corts,2019,Falla subministrament,Pedralbes,803649,41.39135,Manteniment de l'espai urbà,4582579,426097,2.11602,1,NO VOL RESPOSTA,0,Emergència ciutat,55,1,Avinguda,2019,1,ALTRES SUPORTS,Pedralbes,21,13,INCIDENCIA,1
+,,2019,Gaseta Municipal,,803652,,Consultes web,,,,1,EMAIL,,Gaseta Municipal,,1,,2019,1,WEB,,,14,CONSULTA,1
+,,2019,Consulta document planejament aprovat,,804072,,Urbanisme,,,,18,EMAIL,,Planejament urbanístic,,1,,2018,10,WEB,,,15,CONSULTA,2
+,,2019,No ha rebut resposta,,804077,,"Informació, tràmits i atenció al ciutadà",,,,2,EMAIL,,Incidències instàncies i fulls de queixes,,1,,2018,11,TELÈFON,,,16,INCIDENCIA,2
+,,2019,Disconforme servei neteja pintades/cartells,,803761,,Recollida i neteja de l'espai urbà,0,0,,10,CARTA,,Pintades / cartells,,1,,2018,11,TELÈFON,,,17,QUEIXA,2
+,,2019,Carpeta ciutadà,,803913,,Portal de tràmits,,,,16,EMAIL,,Relacions amb l'Ajuntament,,1,,2018,11,WEB,,,18,CONSULTA,2
+,,2019,Incidències notificació electrònica DEV,,804089,,Hisenda,,,,22,EMAIL,,Notificacions,,1,,2018,11,WEB,,,19,INCIDENCIA,2
+2,Eixample,2019,Activitats comercials  i industrials,la Sagrada Família,803863,41.40991,Prevenció i seguretat,4584590,431145,2.17617,22,EMAIL,294,Molèsties soroll a la via pública,38,1,Carrer,2018,11,WEB,Cartagena,6,20,QUEIXA,2
+,,2019,Incidències notificació electrònica DEV,,804100,,Hisenda,,,,23,EMAIL,,Notificacions,,1,,2018,11,WEB,,,21,INCIDENCIA,2
+,,2019,Carpeta ciutadà,,804102,,Portal de tràmits,,,,23,EMAIL,,Relacions amb l'Ajuntament,,1,,2018,11,WEB,,,22,CONSULTA,2
+,,2019,Carpeta ciutadà,,804106,,Portal de tràmits,,,,23,EMAIL,,Relacions amb l'Ajuntament,,1,,2018,11,WEB,,,23,CONSULTA,2
+,,2019,Portal de tràmits,,804107,,Portal de tràmits,,,,24,EMAIL,,Relacions amb l'Ajuntament,,1,,2018,11,WEB,,,24,CONSULTA,2
+,,2019,Portal de tràmits,,804111,,Portal de tràmits,,,,26,EMAIL,,Relacions amb l'Ajuntament,,1,,2018,11,WEB,,,25,CONSULTA,2
+,,2019,Incidències notificació electrònica DEV,,804114,,Hisenda,,,,26,EMAIL,,Notificacions,,1,,2018,11,WEB,,,26,INCIDENCIA,2
+,,2019,Altres,,803746,,Esports,,,,27,EMAIL,,Subvencions esportives,,1,,2018,11,TELÈFON,,,27,SUGGERIMENT,2
+,,2019,Desacord amb la prestació de serveis,,804191,,Serveis socials,,,,27,EMAIL,,Centres de serveis socials,,1,,2018,11,WEB,,,28,QUEIXA,2
+,,2019,Horts urbans,,805876,,Medi ambient,,,,4,EMAIL,,Horts urbans,,1,,2019,1,WEB,,,2558,CONSULTA,7
+3,Sants-Montjuïc,2019,Semàfor incidències,el Poble-sec,804275,41.37322,Manteniment de l'espai urbà,4580534,429347,2.15513,27,IMMEDIATA,17,Semàfors,4,1,Carrer,2018,11,WEB,Lleida,11,29,INCIDENCIA,2
+,,2019,Desacord amb la prestació de serveis,,804179,,Serveis socials,,,,27,EMAIL,,Centres de serveis socials,,1,,2018,11,WEB,,,30,QUEIXA,2
+8,Nou Barris,2019,Arbrat sol·licitud poda per molèsties,la Prosperitat,803709,41.44615,Manteniment de l'espai urbà,4588608,431690,2.18223,27,EMAIL,374,Arbrat,101,1,Via,2018,11,WEB,Favència,52,31,INCIDENCIA,2
+,,2019,No conforme subvenció rebuda,,803735,,Esports,,,,27,EMAIL,,Subvencions esportives,,1,,2018,11,TELÈFON,,,32,QUEIXA,2
+,,2019,Altres,,803734,,Esports,,,,28,EMAIL,,Subvencions esportives,,1,,2018,11,TELÈFON,,,33,SUGGERIMENT,2
+,,2019,Sol.licitud servei,,803665,,Prevenció i seguretat,,,,28,EMAIL,,Actuació guàrdia urbana,,1,,2018,11,TELÈFON,,,34,SUGGERIMENT,2
+,,2019,Altres,,803732,,Esports,,,,28,EMAIL,,Subvencions esportives,,1,,2018,11,TELÈFON,,,35,SUGGERIMENT,2
+2,Eixample,2019,Concentració persones fent soroll,la Dreta de l'Eixample,803688,,Prevenció i seguretat,,,,28,EMAIL,,Molèsties soroll a la via pública,61,1,,2018,11,TELÈFON,,7,36,QUEIXA,2
+,,2019,No conforme subvenció rebuda,,803741,,Esports,,,,28,EMAIL,,Subvencions esportives,,1,,2018,11,WEB,,,37,QUEIXA,2
+,,2019,Desacord amb l'atenció telefònica,,804169,,Serveis socials,,,,29,EMAIL,,Atenció telefònica,,1,,2018,11,WEB,,,38,QUEIXA,2
+10,Sant Martí,2019,Espais privats incidències,la Verneda i la Pau,803804,41.41926,Manteniment de l'espai urbà,4585607,433434,2.20344,29,TELEFÒNIC,242,Espais privats,127,1,Carrer,2018,11,TELÈFON,Concili de Trento,73,39,INCIDENCIA,2
+,,2019,Altres,,803748,,Esports,,,,29,EMAIL,,Subvencions esportives,,1,,2018,11,TELÈFON,,,40,SUGGERIMENT,2
+1,Ciutat Vella,2019,Arbrat incidències,"Sant Pere, Santa Caterina i la Ribera",803780,41.38929,Manteniment de l'espai urbà,4582298,431385,2.1793,29,EMAIL,4,Arbrat,52,1,Plaça,2018,11,WEB,Sant Pere,4,41,INCIDENCIA,2
+5,Sarrià-Sant Gervasi,2019,Vorera incidències,Sant Gervasi - Galvany,803979,41.39533,Manteniment de l'espai urbà,4583004,427777,2.13606,29,SMS,8,Voreres,55,1,Carrer,2018,11,CORREU ELECTRÒNIC,Escoles Pies,26,42,INCIDENCIA,2
+8,Nou Barris,2019,Vehicles motor disciplina viària,el Turó de la Peira,803849,41.43249,Mobilitat,4587107,430124,2.16366,30,EMAIL,50,Vehicles a motor,47,1,Carrer,2018,11,WEB,Vall d'Ordesa,46,43,QUEIXA,2
+,,2019,No conforme subvenció rebuda,,803729,,Esports,,,,30,EMAIL,,Subvencions esportives,,1,,2018,11,WEB,,,44,QUEIXA,2
+,,2019,Devolució sol·licitada i no efectuada,,804163,,Hisenda,,,,30,EMAIL,,Devolucions,,1,,2018,11,TELÈFON,,,45,QUEIXA,2
+2,Eixample,2019,Zona gossos elements incidències,la Nova Esquerra de l'Eixample,804049,41.38196,Manteniment de l'espai urbà,4581505,429270,2.1541,2,EMAIL,155,Zona gossos,142,1,Carrer,2018,12,WEB,Viladomat,9,46,INCIDENCIA,2
+,,2019,Desacord amb l'atenció rebuda,,804138,,Serveis socials,,,,3,EMAIL,,Servei d'atenció domiciliària,,1,,2018,12,INSTÀNCIA,,,47,QUEIXA,2
+2,Eixample,2019,Concentració persones fent soroll,Sant Antoni,804297,,Prevenció i seguretat,,,,3,EMAIL,,Molèsties soroll a la via pública,155,1,,2018,12,INSTÀNCIA,,10,48,QUEIXA,2
+,,2019,Desacord amb l'atenció rebuda,,804140,,Serveis socials,,,,3,EMAIL,,Servei d'atenció domiciliària,,1,,2018,12,INSTÀNCIA,,,49,QUEIXA,2
+5,Sarrià-Sant Gervasi,2019,Enllumenat incidències,Sant Gervasi - Galvany,803721,41.39253,Manteniment de l'espai urbà,4582690,428100,2.13996,3,EMAIL,1,Enllumenat públic,57,1,Plaça,2018,12,MÒBIL,Joan Llongueras,26,50,INCIDENCIA,2
+,,2019,Desacord amb l'atenció rebuda,,804134,,Serveis socials,,,,3,EMAIL,,Servei d'atenció domiciliària,,1,,2018,12,INSTÀNCIA,,,51,QUEIXA,2
+,,2019,Desacord amb la prestació de serveis,,804149,,Serveis socials,,,,3,EMAIL,,Centres de serveis socials,,1,,2018,12,TELÈFON,,,52,QUEIXA,2
+,,2019,Devolució sol·licitada i no efectuada,,804182,,Hisenda,,,,4,EMAIL,,Devolucions,,1,,2018,12,TELÈFON,,,53,QUEIXA,2
+,,2019,Atenció a l'oficina,,804175,,Hisenda,,,,4,EMAIL,,Atenció ciutadans Hisenda,,1,,2018,12,WEB,,,54,QUEIXA,2
+,,2019,Desacord amb la prestació de serveis,,804248,,Serveis socials,,,,4,EMAIL,,Centres de serveis socials,,1,,2018,12,INSTÀNCIA,,,55,QUEIXA,2
+8,Nou Barris,2019,Molèsties gossos a habitatges,la Trinitat Nova,803848,,Prevenció i seguretat,,,,4,CARTA,,Incompliment d'ordenances a l'espai privat,107,1,,2018,12,TELÈFON,,53,56,QUEIXA,2
+5,Sarrià-Sant Gervasi,2019,Escales incidències,"Vallvidrera, el Tibidabo i les Planes",804116,41.41174,Manteniment de l'espai urbà,4584850,425420,2.10764,4,EMAIL,0,Escales,3,1,Drecera,2018,12,TELÈFON,Vallvidrera,22,57,INCIDENCIA,2
+,,2019,Atenció Serveis Socials a persones sense sostre,,803783,,Serveis socials,,,,4,EMAIL,,Problemàtiques socials a l'espai públic,,1,,2018,12,WEB,,,58,SUGGERIMENT,2
+,,2019,Portal de tràmits,,803950,,Portal de tràmits,,,,10,EMAIL,,Relacions amb l'Ajuntament,,1,,2018,12,WEB,,,86,CONSULTA,2
+2,Eixample,2019,Concentració persones fent soroll,la Sagrada Família,803690,,Prevenció i seguretat,,,,4,EMAIL,,Molèsties soroll a la via pública,21,1,,2018,12,WEB,,6,59,QUEIXA,2
+,,2019,No conforme subvenció rebuda,,803753,,Esports,,,,5,EMAIL,,Subvencions esportives,,1,,2018,12,WEB,,,60,QUEIXA,2
+,,2019,No conforme subvenció rebuda,,803752,,Esports,,,,5,EMAIL,,Subvencions esportives,,1,,2018,12,WEB,,,61,QUEIXA,2
+7,Horta-Guinardó,2019,Enllumenat incidències,el Guinardó,804162,41.42052,Manteniment de l'espai urbà,4585769,431050,2.17489,5,IMMEDIATA,1,Enllumenat públic,33,1,Carrer,2018,12,TELÈFON,Centre,35,62,INCIDENCIA,2
+6,Gràcia,2019,Enllumenat incidències,la Vila de Gràcia,804160,41.40335,Manteniment de l'espai urbà,4583878,429499,2.15656,5,IMMEDIATA,0,Enllumenat públic,52,1,Carrer,2018,12,TELÈFON,Guilleries,31,63,INCIDENCIA,2
+5,Sarrià-Sant Gervasi,2019,Enllumenat incidències,el Putxet i el Farró,804157,41.40783,Manteniment de l'espai urbà,4584386,428439,2.14382,5,IMMEDIATA,80,Enllumenat públic,90,1,Carrer,2018,12,TELÈFON,Putxet,27,64,INCIDENCIA,2
+6,Gràcia,2019,Enllumenat incidències,Vallcarca i els Penitents,804156,41.41346,Manteniment de l'espai urbà,4585006,428875,2.14896,5,IMMEDIATA,1,Enllumenat públic,4,1,Passatge,2018,12,TELÈFON,Turull,28,65,INCIDENCIA,2
+,,2019,Disconforme actuació agent,,803672,,Prevenció i seguretat,,,,5,EMAIL,,Actuació guàrdia urbana,,1,,2018,12,WEB,,,66,QUEIXA,2
+,,2019,Disconforme actuació agent,,803668,,Prevenció i seguretat,,,,5,EMAIL,,Actuació guàrdia urbana,,1,,2018,12,WEB,,,67,QUEIXA,2
+7,Horta-Guinardó,2019,Enllumenat fanal / pal incidències,la Vall d'Hebron,803726,41.43331,Manteniment de l'espai urbà,4587210,428833,2.1482,5,SMS,0,Enllumenat públic,100,1,Carrer,2018,12,TELÈFON,Berruguete,41,68,INCIDENCIA,2
+,,2019,Incidències sobre la cita prèvia Hisenda,,804203,,Hisenda,,,,5,EMAIL,,Atenció ciutadans Hisenda,,1,,2018,12,WEB,,,69,QUEIXA,2
+5,Sarrià-Sant Gervasi,2019,Contenidor escombraries canvi de lloc,les Tres Torres,804096,41.39844,Recollida i neteja de l'espai urbà,4583353,427375,2.13121,5,EMAIL,1,Recollida brossa domiciliària,25,1,Carrer,2018,12,TELÈFON,Calatrava,24,70,SUGGERIMENT,2
+3,Sants-Montjuïc,2019,Zona gossos nova / canvi de lloc,la Marina de Port,804082,41.35936,Manteniment de l'espai urbà,4579004,428467,2.14479,5,EMAIL,99,Zona gossos,38,1,Carrer,2018,12,INSTÀNCIA,Foc,13,71,SUGGERIMENT,2
+,,2019,Consultes joventut,,816206,,Joventut,,,,13,EMAIL,,Joventut,,1,,2019,1,WEB,,,12882,CONSULTA,21
+,,2019,Atenció Serveis Socials a persones sense sostre,,803810,,Serveis socials,,,,5,EMAIL,,Problemàtiques socials a l'espai públic,,1,,2018,12,MÒBIL,,,72,SUGGERIMENT,2
+,,2019,Atenció Serveis Socials a persones sense sostre,,803817,,Serveis socials,,,,5,NO VOL RESPOSTA,,Problemàtiques socials a l'espai públic,,1,,2018,12,TELÈFON,,,73,SUGGERIMENT,2
+2,Eixample,2019,"Persones, col·lectius molestant espai públic",la Sagrada Família,804095,,Prevenció i seguretat,,,,6,SMS,,Molèsties espai públic,25,1,,2018,12,MÒBIL,,6,74,QUEIXA,2
+5,Sarrià-Sant Gervasi,2019,Enllumenat incidències,Sant Gervasi - la Bonanova,804167,41.41093,Manteniment de l'espai urbà,4584735,427921,2.13758,7,IMMEDIATA,5,Enllumenat públic,34,1,Carrer,2018,12,TELÈFON,Lleó XIII,25,75,INCIDENCIA,2
+6,Gràcia,2019,Enllumenat incidències,Vallcarca i els Penitents,804165,41.41281,Manteniment de l'espai urbà,4584938,428460,2.144,7,IMMEDIATA,0,Enllumenat públic,6,1,Viaducte,2018,12,TELÈFON,Vallcarca,28,76,INCIDENCIA,2
+4,Les Corts,2019,Enllumenat incidències,la Maternitat i Sant Ramon,804168,41.37801,Manteniment de l'espai urbà,4581090,426847,2.12517,7,IMMEDIATA,17,Enllumenat públic,40,1,Carrer,2018,12,TELÈFON,Benavent,20,77,INCIDENCIA,2
+,,2019,Taquilles,,804209,,Oci / lleure,,,,7,EMAIL,,Tibidabo,,1,,2018,12,WEB,,,78,INCIDENCIA,2
+,,2019,Taquilles,,804207,,Oci / lleure,,,,7,EMAIL,,Tibidabo,,1,,2018,12,WEB,,,79,INCIDENCIA,2
+7,Horta-Guinardó,2019,Espais privats incidències,el Guinardó,803937,41.42208,Manteniment de l'espai urbà,4585942,431088,2.17533,7,SMS,47,Espais privats,46,1,Carrer,2018,12,TELÈFON,Varsòvia,35,80,INCIDENCIA,2
+2,Eixample,2019,Obres a la via pública,l'Antiga Esquerra de l'Eixample,803691,41.39316,Prevenció i seguretat,4582749,429208,2.15321,7,EMAIL,178,Molèsties soroll a la via pública,85,1,Carrer,2018,12,TELÈFON,Aribau,8,81,QUEIXA,2
+1,Ciutat Vella,2019,Sobreocupació habitatge,el Raval,803670,,Prevenció i seguretat,,,,8,EMAIL,,Incompliment d'ordenances a l'espai privat,18,1,,2018,12,WEB,,1,82,QUEIXA,2
+1,Ciutat Vella,2019,Ocupació habitatges,el Raval,803669,,Prevenció i seguretat,,,,8,EMAIL,,Incompliment d'ordenances a l'espai privat,18,1,,2018,12,WEB,,1,83,QUEIXA,2
+,,2019,Manca informació,,804221,,Hisenda,,,,9,EMAIL,,Web Hisenda,,1,,2018,12,WEB,,,84,QUEIXA,2
+10,Sant Martí,2019,Arbrat sol·licitud poda per molèsties,la Verneda i la Pau,803728,41.42284,Manteniment de l'espai urbà,4586009,432960,2.19772,10,EMAIL,8,Arbrat,134,1,Passatge,2018,12,TELÈFON,Ferradura,73,85,INCIDENCIA,2
+,,2019,Portal de tràmits,,803929,,Portal de tràmits,,,,10,EMAIL,,Relacions amb l'Ajuntament,,1,,2018,12,WEB,,,87,CONSULTA,2
+,,2019,Vehicle elèctric incidències,,803883,,Mobilitat,,,,10,EMAIL,,Vehicles elèctrics,,1,,2018,12,WEB,,,88,INCIDENCIA,2
+,,2019,Portal de tràmits,,803877,,Portal de tràmits,,,,10,EMAIL,,Relacions amb l'Ajuntament,,1,,2018,12,WEB,,,89,CONSULTA,2
+5,Sarrià-Sant Gervasi,2019,Vorera incidències,"Vallvidrera, el Tibidabo i les Planes",804115,41.41174,Manteniment de l'espai urbà,4584850,425420,2.10764,10,EMAIL,0,Voreres,3,1,Drecera,2018,12,TELÈFON,Vallvidrera,22,90,INCIDENCIA,2
+2,Eixample,2019,"Orins, excrements animals",la Nova Esquerra de l'Eixample,803897,41.38433,Recollida i neteja de l'espai urbà,4581770,429054,2.15148,11,SMS,93,Neteja carrers i/o places,121,1,Avinguda,2018,12,TELÈFON,Roma,9,91,INCIDENCIA,2
+9,Sant Andreu,2019,Disconforme servei de neteja carrers / places,el Bon Pastor,803891,41.43811,Recollida i neteja de l'espai urbà,4587705,432789,2.19549,11,EMAIL,2,Neteja carrers i/o places,8,1,Carrer,2018,12,MÒBIL,Ferran Junoy,59,92,QUEIXA,2
+5,Sarrià-Sant Gervasi,2019,Bancs nou/s - canvi de lloc,el Putxet i el Farró,804118,41.4022,Manteniment de l'espai urbà,4583756,428788,2.14807,11,EMAIL,32,Bancs,81,1,Carrer,2018,12,TELÈFON,Guillem Tell,27,93,SUGGERIMENT,2
+10,Sant Martí,2019,Parcs jardins i zones verdes disconforme horari,la Vila Olímpica del Poblenou,803730,41.39265,Manteniment de l'espai urbà,4582662,432403,2.19143,11,EMAIL,65,Parcs jardins i zones verdes,51,1,Avinguda,2018,12,WEB,Bogatell,67,94,QUEIXA,2
+1,Ciutat Vella,2019,"Orins, excrements humans","Sant Pere, Santa Caterina i la Ribera",803775,41.38661,Recollida i neteja de l'espai urbà,4582003,431202,2.17714,12,EMAIL,29,Neteja carrers i/o places,49,1,Carrer,2018,12,ALTRES SUPORTS,Freixures,4,95,INCIDENCIA,2
+,,2019,Incidències notificació electrònica DEV,,804131,,Hisenda,,,,12,EMAIL,,Notificacions,,1,,2018,12,WEB,,,96,INCIDENCIA,2
+5,Sarrià-Sant Gervasi,2019,Semàfor acústic no funciona,el Putxet i el Farró,804294,41.41023,Manteniment de l'espai urbà,4584657,427908,2.13743,12,EMAIL,42,Semàfors,94,1,Passeig,2018,12,WEB,Sant Gervasi,27,97,INCIDENCIA,2
+1,Ciutat Vella,2019,Vorera incidències,la Barceloneta,803818,41.38076,Manteniment de l'espai urbà,4581341,432472,2.19241,12,EMAIL,57,Voreres,36,1,Carrer,2018,12,MÒBIL,Andrea Doria,3,98,INCIDENCIA,2

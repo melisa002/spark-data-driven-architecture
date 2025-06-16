@@ -1,0 +1,101 @@
+CODI_DISTRICTE,DISTRICTE,ANY_DATA_TANCAMENT,DETALL,BARRI,FITXA_ID,LATITUD,AREA,COORDENADA_Y,COORDENADA_X,LONGITUD,DIA_DATA_ALTA,CANALS_RESPOSTA,NUMERO,ELEMENT,SECCIO_CENSAL,MES_DATA_TANCAMENT,TIPUS_VIA,ANY_DATA_ALTA,MES_DATA_ALTA,SUPORT,CARRER,CODI_BARRI,_id,TIPUS,DIA_DATA_TANCAMENT
+5,Sarrià-Sant Gervasi,2018,Vehicles motor abandonats,Sant Gervasi - la Bonanova,573739,41.41143,Mobilitat,85004982,26931896,2.12461,15,IMMEDIATA,43,Vehicles a motor,32,1,Carrer,2017,12,WEB,Bellesguard,25,1,INCIDENCIA,1
+5,Sarrià-Sant Gervasi,2018,Vehicles motor abandonats,les Tres Torres,573738,41.39589,Mobilitat,83273451,27536884,2.13206,27,IMMEDIATA,24,Vehicles a motor,22,1,Carrer,2017,12,TELÈFON,Doctor Roux,24,2,INCIDENCIA,1
+2,Eixample,2018,Objectes a netejar / retirar,la Nova Esquerra de l'Eixample,573728,41.38189,Recollida i neteja de l'espai urbà,81702349,29214771,2.15231,31,NO VOL RESPOSTA,146,Neteja carrers i/o places,140,1,Carrer,2017,12,TELÈFON,Calàbria,9,3,INCIDENCIA,1
+8,Nou Barris,2018,Recollida animals morts espai públic,la Guineueta,573730,41.43997,Recollida i neteja de l'espai urbà,88140422,30351204,2.16516,31,NO VOL RESPOSTA,52,Recollida animals morts,59,1,Via,2017,12,TELÈFON,Favència,48,4,INCIDENCIA,1
+6,Gràcia,2018,Objectes a netejar / retirar,la Vila de Gràcia,573729,41.39755,Recollida i neteja de l'espai urbà,83438243,29547477,2.15609,31,EMAIL,9,Neteja carrers i/o places,44,1,Carrer,2017,12,TELÈFON,Doctor Rizal,31,5,INCIDENCIA,1
+,,2018,Rec. animals morts en espais privats,,573735,,Gestions municipals,,,,1,IMMEDIATA,,Recollida i neteja de l'espai urbà,,1,,2018,1,TELÈFON,,,6,PETICIO DE SERVEI,1
+6,Gràcia,2018,Fuita aigua neta de companyia o particular,Vallcarca i els Penitents,573736,41.41345,Manteniment de l'espai urbà,85215725,28270016,2.1406,1,NO VOL RESPOSTA,37,Fuites d'aigua neta,7,1,Carrer,2018,1,TELÈFON,Esteve Terradas,28,7,INCIDENCIA,1
+7,Horta-Guinardó,2018,Objectes a netejar / retirar,Can Baró,573737,41.41438,Recollida i neteja de l'espai urbà,85302418,30036396,2.16172,1,NO VOL RESPOSTA,6,Neteja carrers i/o places,20,1,Carrer,2018,1,TELÈFON,Vallseca,34,8,INCIDENCIA,1
+,,2018,Rec. animals morts en espais privats,,573734,,Gestions municipals,,,,1,IMMEDIATA,,Recollida i neteja de l'espai urbà,,1,,2018,1,TELÈFON,,,9,PETICIO DE SERVEI,1
+9,Sant Andreu,2018,"Orins, excrements humans",Sant Andreu,573740,41.43709,Recollida i neteja de l'espai urbà,87803571,32094940,2.18607,1,EMAIL,80,Neteja carrers i/o places,41,1,Carrer,2018,1,TELÈFON,Baliarda,60,10,INCIDENCIA,1
+7,Horta-Guinardó,2018,Ascensor urbà incidències,Can Baró,573732,41.41599,Manteniment de l'espai urbà,85483187,29771810,2.15853,1,NO VOL RESPOSTA,12,Ascensors urbans,22,1,Carrer,2018,1,TELÈFON,Albert Llanas,34,11,INCIDENCIA,1
+,,2018,Estat de la meva sol·licitud,,574042,,Transports públics,,,,18,EMAIL,,Targeta T16,,1,,2017,12,TELÈFON,,,71,INCIDENCIA,2
+7,Horta-Guinardó,2018,Escala mecànica incidències,el Guinardó,573731,41.41772,Manteniment de l'espai urbà,85664341,30899644,2.17201,1,NO VOL RESPOSTA,68,Escales mecàniques,37,1,Carrer,2018,1,TELÈFON,Telègraf,35,12,INCIDENCIA,1
+3,Sants-Montjuïc,2018,Clavegueram recuperar objecte perdut,Sants,573727,41.37863,Gestions municipals,81353124,27913654,2.13679,1,IMMEDIATA,18,Manteniment de l'espai urbà,109,1,Carrer,2018,1,TELÈFON,Santa Caterina,18,13,PETICIO DE SERVEI,1
+8,Nou Barris,2018,Objectes a netejar / retirar,la Prosperitat,573733,41.44351,Recollida i neteja de l'espai urbà,88517313,32040059,2.18533,1,NO VOL RESPOSTA,24,Neteja carrers i/o places,96,1,Carrer,2018,1,TELÈFON,Florida,52,14,INCIDENCIA,1
+3,Sants-Montjuïc,2018,Contenidors brossa neta canvi de lloc,Sants - Badal,573955,41.37439,Recollida i neteja de l'espai urbà,80887822,27383464,2.13051,14,EMAIL,1,Recollida brossa neta,73,1,Carrer,2017,10,WEB,Casteràs,17,15,SUGGERIMENT,2
+,,2018,No ha rebut resposta,,573780,,"Informació, tràmits i atenció al ciutadà",,,,31,EMAIL,,Incidències instàncies i fulls de queixes,,1,,2017,10,TELÈFON,,,16,INCIDENCIA,2
+4,Les Corts,2018,Semàfor incidències,la Maternitat i Sant Ramon,574043,41.38439,Manteniment de l'espai urbà,82001084,27112901,2.12714,10,EMAIL,69,Semàfors,84,1,Gran Via,2017,11,MÒBIL,Carles III,20,17,INCIDENCIA,2
+4,Les Corts,2018,Semàfor incidències,la Maternitat i Sant Ramon,574045,41.38439,Manteniment de l'espai urbà,82001084,27112901,2.12714,17,EMAIL,69,Semàfors,84,1,Gran Via,2017,11,TELÈFON,Carles III,20,18,INCIDENCIA,2
+10,Sant Martí,2018,Parcs jardins i zones verdes nova/canvi de lloc,el Camp de l'Arpa del Clot,573890,41.41589,Manteniment de l'espai urbà,85454341,31684006,2.18141,17,EMAIL,14,Parcs jardins i zones verdes,5,1,Carrer,2017,11,INSTÀNCIA,Guinardó,64,19,SUGGERIMENT,2
+10,Sant Martí,2018,Molèsties obres a la via pública,la Vila Olímpica del Poblenou,573848,41.3915,"Urbanisme, obres i habitatge",82734617,32962376,2.19701,23,EMAIL,157,Altres obres a la via pública,53,1,Avinguda,2017,11,TELÈFON,Icària,67,20,QUEIXA,2
+7,Horta-Guinardó,2018,Colònies de gats,Can Baró,573979,41.41737,Sanitat i salut pública,85634788,29989562,2.16112,26,EMAIL,64,Oficina de protecció dels animals,23,1,Carrer,2017,11,WEB,Pasteur,34,21,QUEIXA,2
+7,Horta-Guinardó,2018,Bandes rugoses incidències,Montbau,573801,41.4323,Mobilitat,87307622,28463342,2.14266,30,SMS,11,Ordenació viària,95,1,Carrer,2017,11,TELÈFON,Poesia,40,22,INCIDENCIA,2
+6,Gràcia,2018,Habitatges d'ús turístic,Vallcarca i els Penitents,573880,,Prevenció i seguretat,,,,4,EMAIL,,Incompliment d'ordenances a l'espai privat,1,1,,2017,12,WEB,,28,23,PETICIO DE SERVEI,2
+,,2018,Desacord pels retards en el pla individual d'atenció,,573954,,Serveis socials,,,,4,EMAIL,,Aplicació llei dependència,,1,,2017,12,INSTÀNCIA,,,24,QUEIXA,2
+,,2018,Desacord pels retards en el pla individual d'atenció,,573974,,Serveis socials,,,,4,CARTA,,Aplicació llei dependència,,1,,2017,12,INSTÀNCIA,,,25,QUEIXA,2
+,,2018,Desacord pels retards en el pla individual d'atenció,,573963,,Serveis socials,,,,4,EMAIL,,Aplicació llei dependència,,1,,2017,12,INSTÀNCIA,,,26,QUEIXA,2
+,,2018,Desacord amb l'atenció rebuda,,574071,,Serveis socials,,,,4,EMAIL,,Servei d'atenció domiciliària,,1,,2017,12,INSTÀNCIA,,,27,QUEIXA,2
+,,2018,Desacord amb la prestació de serveis,,574065,,Serveis socials,,,,4,CARTA,,Centres de serveis socials,,1,,2017,12,TELÈFON,,,28,QUEIXA,2
+,,2018,Desacord pels retards en el pla individual d'atenció,,574059,,Serveis socials,,,,4,CARTA,,Aplicació llei dependència,,1,,2017,12,INSTÀNCIA,,,29,QUEIXA,2
+,,2018,Desacord pels retards en el pla individual d'atenció,,573995,,Serveis socials,,,,4,CARTA,,Aplicació llei dependència,,1,,2017,12,INSTÀNCIA,,,30,QUEIXA,2
+2,Eixample,2018,Habitatges d'ús turístic,la Dreta de l'Eixample,573895,,Prevenció i seguretat,,,,4,EMAIL,,Incompliment d'ordenances a l'espai privat,76,1,,2017,12,WEB,,7,31,PETICIO DE SERVEI,2
+2,Eixample,2018,Habitatges d'ús turístic,la Nova Esquerra de l'Eixample,573907,,Prevenció i seguretat,,,,4,EMAIL,,Incompliment d'ordenances a l'espai privat,129,1,,2017,12,WEB,,9,32,PETICIO DE SERVEI,2
+,,2018,Desacord individual pla d'atenció,,573934,,Serveis socials,,,,4,CARTA,,Aplicació llei dependència,,1,,2017,12,TELÈFON,,,33,QUEIXA,2
+10,Sant Martí,2018,Habitatges d'ús turístic,Diagonal Mar i el Front Marítim del Poblenou,573939,,Prevenció i seguretat,,,,4,EMAIL,,Incompliment d'ordenances a l'espai privat,78,1,,2017,12,WEB,,69,34,PETICIO DE SERVEI,2
+,,2018,Desacord pels retards en el pla individual d'atenció,,573948,,Serveis socials,,,,4,CARTA,,Aplicació llei dependència,,1,,2017,12,INSTÀNCIA,,,35,QUEIXA,2
+,,2018,Desacord amb la prestació de serveis,,574039,,Serveis socials,,,,4,EMAIL,,Centres de serveis socials,,1,,2017,12,INSTÀNCIA,,,36,QUEIXA,2
+,,2018,Desacord amb l'atenció rebuda,,574054,,Serveis socials,,,,4,CARTA,,Servei d'atenció domiciliària,,1,,2017,12,INSTÀNCIA,,,37,QUEIXA,2
+1,Ciutat Vella,2018,Habitatges d'ús turístic,el Barri Gòtic,573958,,Prevenció i seguretat,,,,5,EMAIL,,Incompliment d'ordenances a l'espai privat,25,1,,2017,12,WEB,,2,38,PETICIO DE SERVEI,2
+10,Sant Martí,2018,Queixes i suggeriments altres projectes urbans,la Vila Olímpica del Poblenou,573882,41.38977,"Urbanisme, obres i habitatge",82540055,33218524,2.2001,5,EMAIL,36,Altres projectes urbanístics a la ciutat,55,1,Avinguda,2017,12,WEB,Litoral,67,39,SUGGERIMENT,2
+,,2018,Desacord amb la prestació de serveis,,574081,,Serveis socials,,,,6,EMAIL,,Centres de serveis socials,,1,,2017,12,WEB,,,40,QUEIXA,2
+1,Ciutat Vella,2018,Habitatges d'ús turístic,el Raval,573975,,Prevenció i seguretat,,,,6,EMAIL,,Incompliment d'ordenances a l'espai privat,17,1,,2017,12,WEB,,1,41,PETICIO DE SERVEI,2
+,,2018,Vehicle elèctric incidències,,573982,,Mobilitat,,,,7,EMAIL,,Vehicles elèctrics,,1,,2017,12,TELÈFON,,,42,INCIDENCIA,2
+1,Ciutat Vella,2018,Habitatges d'ús turístic,el Raval,574019,,Prevenció i seguretat,,,,9,EMAIL,,Incompliment d'ordenances a l'espai privat,11,1,,2017,12,WEB,,1,43,PETICIO DE SERVEI,2
+,,2018,Sol·licitud targeta vehicle elèctric,,573983,,Gestions municipals,,,,11,EMAIL,,Mobilitat,,1,,2017,12,WEB,,,44,PETICIO DE SERVEI,2
+,,2018,Accessibilitat / manteniment oficina,,573881,,Hisenda,,,,11,EMAIL,,Atenció ciutadans Hisenda,,1,,2017,12,WEB,,,45,QUEIXA,2
+,,2018,Carpeta ciutadà,,573883,,Portal de tràmits,,,,11,EMAIL,,Relacions amb l'Ajuntament,,1,,2017,12,WEB,,,46,CONSULTA,2
+,,2018,Vehicle elèctric incidències,,573990,,Mobilitat,,,,12,EMAIL,,Vehicles elèctrics,,1,,2017,12,WEB,,,47,INCIDENCIA,2
+,,2018,Atenció a l'oficina,,573893,,Hisenda,,,,12,EMAIL,,Atenció ciutadans Hisenda,,1,,2017,12,TELÈFON,,,48,QUEIXA,2
+,,2018,Sol·licitud targeta vehicle elèctric,,573993,,Gestions municipals,,,,12,EMAIL,,Mobilitat,,1,,2017,12,WEB,,,49,PETICIO DE SERVEI,2
+,,2018,Carpeta ciutadà,,573926,,Portal de tràmits,,,,13,EMAIL,,Relacions amb l'Ajuntament,,1,,2017,12,WEB,,,50,CONSULTA,2
+3,Sants-Montjuïc,2018,Enllumenat incidències,Sants,573999,41.37514,Manteniment de l'espai urbà,80970164,27527994,2.13223,13,EMAIL,25,Enllumenat públic,95,1,Riera,2017,12,WEB,Escuder,18,51,INCIDENCIA,2
+,,2018,Carpeta ciutadà,,573908,,Portal de tràmits,,,,13,EMAIL,,Relacions amb l'Ajuntament,,1,,2017,12,WEB,,,52,CONSULTA,2
+,,2018,Sol·licitud targeta vehicle elèctric,,573996,,Gestions municipals,,,,14,EMAIL,,Mobilitat,,1,,2017,12,TELÈFON,,,53,PETICIO DE SERVEI,2
+,,2018,Atenció Serveis Socials a persones sense sostre,,573793,,Serveis socials,,,,14,NO VOL RESPOSTA,,Problemàtiques socials a l'espai públic,,1,,2017,12,TELÈFON,,,54,SUGGERIMENT,2
+,,2018,Portal de tràmits,,573962,,Portal de tràmits,,,,14,EMAIL,,Relacions amb l'Ajuntament,,1,,2017,12,WEB,,,55,CONSULTA,2
+,,2018,Carpeta ciutadà,,573959,,Portal de tràmits,,,,14,EMAIL,,Relacions amb l'Ajuntament,,1,,2017,12,WEB,,,56,CONSULTA,2
+,,2018,Sol·licitud targeta vehicle elèctric,,574000,,Gestions municipals,,,,15,EMAIL,,Mobilitat,,1,,2017,12,WEB,,,57,PETICIO DE SERVEI,2
+,,2018,Sol·licitud targeta vehicle elèctric,,574005,,Gestions municipals,,,,17,EMAIL,,Mobilitat,,1,,2017,12,WEB,,,58,PETICIO DE SERVEI,2
+,,2018,Sol·licitud targeta vehicle elèctric,,574004,,Gestions municipals,,,,17,EMAIL,,Mobilitat,,1,,2017,12,WEB,,,59,PETICIO DE SERVEI,2
+,,2018,Estat de la meva sol·licitud,,574038,,Transports públics,,,,17,SMS,,Targeta T16,,1,,2017,12,TELÈFON,,,60,INCIDENCIA,2
+5,Sarrià-Sant Gervasi,2018,Enllumenat incidències,"Vallvidrera, el Tibidabo i les Planes",574034,41.42249,Manteniment de l'espai urbà,86266633,23660086,2.08531,17,EMAIL,42,Enllumenat públic,1,1,Camí,2017,12,TELÈFON,Can Castellví,22,61,INCIDENCIA,2
+,,2018,Sol·licitud targeta vehicle elèctric,,574023,,Gestions municipals,,,,18,EMAIL,,Mobilitat,,1,,2017,12,WEB,,,62,PETICIO DE SERVEI,2
+,,2018,Vehicle elèctric incidències,,574016,,Mobilitat,,,,18,EMAIL,,Vehicles elèctrics,,1,,2017,12,TELÈFON,,,63,INCIDENCIA,2
+,,2018,Estat de la meva sol·licitud,,573766,,Transports públics,,,,18,EMAIL,,Targeta T16,,1,,2017,12,TELÈFON,,,64,INCIDENCIA,2
+,,2018,Estat de la meva sol·licitud,,574035,,Transports públics,,,,18,EMAIL,,Targeta T16,,1,,2017,12,TELÈFON,,,65,INCIDENCIA,2
+,,2018,Vehicle elèctric incidències,,574033,,Mobilitat,,,,18,EMAIL,,Vehicles elèctrics,,1,,2017,12,TELÈFON,,,66,INCIDENCIA,2
+7,Horta-Guinardó,2018,Enllumenat incidències,el Guinardó,573978,41.4196,Manteniment de l'espai urbà,85872260,30973950,2.17287,18,IMMEDIATA,184,Enllumenat públic,32,1,Avinguda,2017,12,TELÈFON,Mare de Déu de Montserrat,35,67,INCIDENCIA,2
+,,2018,Problemes / desacord procediment pagament,,574133,,Mobilitat,,,,18,EMAIL,,Àrea verda,,1,,2017,12,WEB,,,68,QUEIXA,2
+,,2018,Disconforme política targeta T16,,573763,,Transports públics,,,,18,EMAIL,,Targeta T16,,1,,2017,12,TELÈFON,,,69,QUEIXA,2
+,,2018,Estat de la meva sol·licitud,,573762,,Transports públics,,,,18,EMAIL,,Targeta T16,,1,,2017,12,TELÈFON,,,70,INCIDENCIA,2
+,,2018,Estat de la meva sol·licitud,,574048,,Transports públics,,,,18,NO VOL RESPOSTA,,Targeta T16,,1,,2017,12,TELÈFON,,,72,INCIDENCIA,2
+,,2018,Estat de la meva sol·licitud,,574050,,Transports públics,,,,18,SMS,,Targeta T16,,1,,2017,12,TELÈFON,,,73,INCIDENCIA,2
+,,2018,Estat de la meva sol·licitud,,574064,,Transports públics,,,,18,EMAIL,,Targeta T16,,1,,2017,12,WEB,,,74,INCIDENCIA,2
+,,2018,Estat de la meva sol·licitud,,574067,,Transports públics,,,,18,SMS,,Targeta T16,,1,,2017,12,TELÈFON,,,75,INCIDENCIA,2
+,,2018,Estat de la meva sol·licitud,,574069,,Transports públics,,,,18,EMAIL,,Targeta T16,,1,,2017,12,TELÈFON,,,76,INCIDENCIA,2
+,,2018,Restauració,,574076,,Oci / lleure,,,,18,EMAIL,,Tibidabo,,1,,2017,12,FULLS QUEIXES I SUGGERIMENTS,,,77,INCIDENCIA,2
+,,2018,Recinte,,574082,,Oci / lleure,,,,18,EMAIL,,Tibidabo,,1,,2017,12,FULLS QUEIXES I SUGGERIMENTS,,,78,INCIDENCIA,2
+,,2018,Atraccions,,574083,,Oci / lleure,,,,18,CARTA,,Tibidabo,,1,,2017,12,FULLS QUEIXES I SUGGERIMENTS,,,79,INCIDENCIA,2
+,,2018,Serveis Tibidabo,,574084,,Oci / lleure,,,,18,EMAIL,,Tibidabo,,1,,2017,12,FULLS QUEIXES I SUGGERIMENTS,,,80,INCIDENCIA,2
+,,2018,Espectacles,,574085,,Oci / lleure,,,,18,EMAIL,,Tibidabo,,1,,2017,12,FULLS QUEIXES I SUGGERIMENTS,,,81,INCIDENCIA,2
+,,2018,Disconforme procediment de gestió,,573767,,Transports públics,,,,18,SMS,,Targeta T16,,1,,2017,12,TELÈFON,,,82,QUEIXA,2
+,,2018,Espectacles,,574086,,Oci / lleure,,,,18,CARTA,,Tibidabo,,1,,2017,12,FULLS QUEIXES I SUGGERIMENTS,,,83,INCIDENCIA,2
+,,2018,Estat de la meva sol·licitud,,573754,,Transports públics,,,,18,SMS,,Targeta T16,,1,,2017,12,TELÈFON,,,84,INCIDENCIA,2
+,,2018,Estat de la meva sol·licitud,,573756,,Transports públics,,,,18,EMAIL,,Targeta T16,,1,,2017,12,WEB,,,85,INCIDENCIA,2
+,,2018,Estat de la meva sol·licitud,,573783,,Transports públics,,,,18,EMAIL,,Targeta T16,,1,,2017,12,TELÈFON,,,86,INCIDENCIA,2
+,,2018,Atenció Serveis Socials a persones sense sostre,,573789,,Serveis socials,,,,18,NO VOL RESPOSTA,,Problemàtiques socials a l'espai públic,,1,,2017,12,TELÈFON,,,87,SUGGERIMENT,2
+,,2018,Estat de la meva sol·licitud,,573758,,Transports públics,,,,18,SMS,,Targeta T16,,1,,2017,12,TELÈFON,,,88,INCIDENCIA,2
+,,2018,Estat de la meva sol·licitud,,573759,,Transports públics,,,,18,EMAIL,,Targeta T16,,1,,2017,12,TELÈFON,,,89,INCIDENCIA,2
+,,2018,Estat de la meva sol·licitud,,573761,,Transports públics,,,,18,EMAIL,,Targeta T16,,1,,2017,12,TELÈFON,,,90,INCIDENCIA,2
+,,2018,Atenció Serveis Socials a persones sense sostre,,573779,,Serveis socials,,,,19,NO VOL RESPOSTA,,Problemàtiques socials a l'espai públic,,1,,2017,12,TELÈFON,,,91,SUGGERIMENT,2
+,,2018,Consulta sobre l'Arxiu Contemporàni de Barcelona,,573823,,Cultura,,,,19,EMAIL,,Arxiu Municipal Contemporani de Barcelona,,1,,2017,12,WEB,,,92,CONSULTA,2
+,,2018,Sol·licitud targeta vehicle elèctric,,574046,,Gestions municipals,,,,19,EMAIL,,Mobilitat,,1,,2017,12,WEB,,,93,PETICIO DE SERVEI,2
+,,2018,Portal de tràmits,,573949,,Portal de tràmits,,,,19,EMAIL,,Relacions amb l'Ajuntament,,1,,2017,12,WEB,,,94,CONSULTA,2
+3,Sants-Montjuïc,2018,Vorera incidències,la Marina de Port,574014,41.3658,Manteniment de l'espai urbà,79927949,28049327,2.13858,19,EMAIL,4,Voreres,36,1,Carrer,2017,12,TELÈFON,Química,13,95,INCIDENCIA,2
+,,2018,Carpeta ciutadà,,573981,,Portal de tràmits,,,,20,EMAIL,,Relacions amb l'Ajuntament,,1,,2017,12,WEB,,,96,CONSULTA,2
+,,2018,Consultes sobre escoles bressol municipals,,573795,,Educació,,,,20,EMAIL,,Escoles bressol municipals,,1,,2017,12,WEB,,,97,CONSULTA,2
+5,Sarrià-Sant Gervasi,2018,Senyalització vertical incidències,Sant Gervasi - Galvany,573773,41.40066,Manteniment de l'espai urbà,83791640,28735278,2.14633,20,EMAIL,115,Senyalització vertical trànsit,73,1,Via,2017,12,TELÈFON,Augusta,26,98,INCIDENCIA,2
+3,Sants-Montjuïc,2018,Vorera incidències,Sants,573977,41.37713,Manteniment de l'espai urbà,81187120,27864235,2.13622,20,SMS,55,Voreres,108,1,Carrer,2017,12,TELÈFON,Alcolea,18,99,INCIDENCIA,2
+,,2018,Portal de tràmits,,573961,,Portal de tràmits,,,,20,EMAIL,,Relacions amb l'Ajuntament,,1,,2017,12,WEB,,,100,CONSULTA,2
