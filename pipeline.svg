@@ -1,0 +1,173 @@
+<svg width="800" height="1200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Arrow marker -->
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#333" />
+    </marker>
+  </defs>
+
+  <!-- Landing Zone -->
+  <g id="landing-zone">
+    <rect x="50" y="60" width="700" height="280" fill="white" stroke="#333" stroke-width="2"/>
+    <text x="400" y="85" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">Landing Zone</text>
+    <text x="400" y="102" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" font-style="italic">Raw Data Repository</text>
+
+
+    <rect x="70" y="120" width="210" height="200" fill="white" stroke="#666" stroke-width="1"/>
+    <text x="175" y="140" font-family="Arial, sans-serif" font-size="13" font-weight="bold" text-anchor="middle">Income Dataset</text>
+    <text x="80" y="160" font-family="Arial, sans-serif" font-size="10">• CSV format (2014-2017)</text>
+    <text x="80" y="175" font-family="Arial, sans-serif" font-size="10">• District and neighborhood</text>
+    <text x="80" y="190" font-family="Arial, sans-serif" font-size="10">• Income index (BCN=100)</text>
+    <text x="80" y="205" font-family="Arial, sans-serif" font-size="10">• Population figures</text>
+    <text x="80" y="220" font-family="Arial, sans-serif" font-size="10">• Missing values: "-"</text>
+    <text x="80" y="235" font-family="Arial, sans-serif" font-size="10">• Schema: Codi_Districte,</text>
+    <text x="90" y="250" font-family="Arial, sans-serif" font-size="10">Nom_Districte, Codi_Barri,</text>
+    <text x="90" y="265" font-family="Arial, sans-serif" font-size="10">Nom_Barri, Població,</text>
+    <text x="90" y="280" font-family="Arial, sans-serif" font-size="10">Índex RFD, Any</text>
+
+    <!-- Incidences Dataset -->
+    <rect x="295" y="120" width="210" height="200" fill="white" stroke="#666" stroke-width="1"/>
+    <text x="400" y="140" font-family="Arial, sans-serif" font-size="13" font-weight="bold" text-anchor="middle">Incidences Dataset</text>
+    <text x="305" y="160" font-family="Arial, sans-serif" font-size="10">• CSV format (yearly)</text>
+    <text x="305" y="175" font-family="Arial, sans-serif" font-size="10">• Citizen service requests</text>
+    <text x="305" y="190" font-family="Arial, sans-serif" font-size="10">• Creation/closure dates</text>
+    <text x="305" y="205" font-family="Arial, sans-serif" font-size="10">• Geographic coordinates</text>
+    <text x="305" y="220" font-family="Arial, sans-serif" font-size="10">• String "NULL" for missing</text>
+    <text x="305" y="235" font-family="Arial, sans-serif" font-size="10">• Key fields: FITXA_ID,</text>
+    <text x="315" y="250" font-family="Arial, sans-serif" font-size="10">DIA/MES_DATA_ALTA,</text>
+    <text x="315" y="265" font-family="Arial, sans-serif" font-size="10">DIA/MES/ANY_TANCAMENT,</text>
+    <text x="315" y="280" font-family="Arial, sans-serif" font-size="10">CODI_BARRI, DISTRICTE</text>
+
+    <!-- Population Dataset -->
+    <rect x="520" y="120" width="210" height="200" fill="white" stroke="#666" stroke-width="1"/>
+    <text x="625" y="140" font-family="Arial, sans-serif" font-size="13" font-weight="bold" text-anchor="middle">Population Dataset</text>
+    <text x="530" y="160" font-family="Arial, sans-serif" font-size="10">• JSON format (nested)</text>
+    <text x="530" y="175" font-family="Arial, sans-serif" font-size="10">• Demographic dimensions</text>
+    <text x="530" y="190" font-family="Arial, sans-serif" font-size="10">• Sex/nationality codes</text>
+    <text x="530" y="205" font-family="Arial, sans-serif" font-size="10">• Temporal reference field</text>
+    <text x="530" y="220" font-family="Arial, sans-serif" font-size="10">• Missing values: ".."</text>
+    <text x="530" y="235" font-family="Arial, sans-serif" font-size="10">• Auxiliary data:</text>
+    <text x="540" y="250" font-family="Arial, sans-serif" font-size="10">- pad_dimensions.csv</text>
+    <text x="540" y="265" font-family="Arial, sans-serif" font-size="10">- BarcelonaCiutat_Barris</text>
+    <text x="540" y="280" font-family="Arial, sans-serif" font-size="10">- WKT geometries</text>
+  </g>
+
+  <!-- Arrows from Landing to Formatted -->
+  <path d="M 175 340 L 175 380" stroke="#333" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
+  <path d="M 400 340 L 400 380" stroke="#333" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
+  <path d="M 625 340 L 625 380" stroke="#333" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
+  <text x="175" y="355" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">Extract</text>
+  <text x="400" y="355" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">Extract</text>
+  <text x="625" y="355" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">Extract</text>
+
+  <!-- Formatted Zone -->
+  <g id="formatted-zone">
+    <rect x="50" y="390" width="700" height="300" fill="white" stroke="#333" stroke-width="2"/>
+    <text x="400" y="415" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">Formatted Zone</text>
+    <text x="400" y="432" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" font-style="italic">Standardized Parquet Storage</text>
+
+    <!-- Three columns for transformations -->
+    <!-- Income Transformations -->
+    <rect x="70" y="450" width="210" height="210" fill="white" stroke="#666" stroke-width="1"/>
+    <text x="175" y="470" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">Income Processing</text>
+    <text x="80" y="490" font-family="Arial, sans-serif" font-size="10" font-weight="bold">Data Integration:</text>
+    <text x="80" y="505" font-family="Arial, sans-serif" font-size="9">• Union 4 yearly CSV files</text>
+    <text x="80" y="518" font-family="Arial, sans-serif" font-size="9">• Auto schema inference</text>
+    <text x="80" y="531" font-family="Arial, sans-serif" font-size="8" font-family="monospace">  nullValue="-"</text>
+    <text x="80" y="548" font-family="Arial, sans-serif" font-size="10" font-weight="bold">Quality Assurance:</text>
+    <text x="80" y="563" font-family="Arial, sans-serif" font-size="9">• Remove null income indices</text>
+    <text x="80" y="576" font-family="Arial, sans-serif" font-size="9">• Filter "No consta" districts</text>
+    <text x="80" y="593" font-family="Arial, sans-serif" font-size="10" font-weight="bold">Storage Strategy:</text>
+    <text x="80" y="608" font-family="Arial, sans-serif" font-size="9">• Partition by Codi_Barri, Any</text>
+    <text x="80" y="621" font-family="Arial, sans-serif" font-size="9">• Parquet columnar format</text>
+    <text x="80" y="634" font-family="Arial, sans-serif" font-size="9">• Snappy compression</text>
+
+    <!-- Incidences Transformations -->
+    <rect x="295" y="450" width="210" height="210" fill="white" stroke="#666" stroke-width="1"/>
+    <text x="400" y="470" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">Incidences Processing</text>
+    <text x="305" y="490" font-family="Arial, sans-serif" font-size="10" font-weight="bold">Type Standardization:</text>
+    <text x="305" y="505" font-family="Arial, sans-serif" font-size="9">• Convert codes to string</text>
+    <text x="305" y="518" font-family="Arial, sans-serif" font-size="8" font-family="monospace">  cast("string")</text>
+    <text x="305" y="531" font-family="Arial, sans-serif" font-size="9">• Prevent join type errors</text>
+    <text x="305" y="548" font-family="Arial, sans-serif" font-size="10" font-weight="bold">Data Cleansing:</text>
+    <text x="305" y="563" font-family="Arial, sans-serif" font-size="9">• "NULL" string → None</text>
+    <text x="305" y="576" font-family="Arial, sans-serif" font-size="9">• Keep valid neighborhoods</text>
+    <text x="305" y="593" font-family="Arial, sans-serif" font-size="10" font-weight="bold">Harmonization:</text>
+    <text x="305" y="608" font-family="Arial, sans-serif" font-size="9">• Rename to match income</text>
+    <text x="305" y="621" font-family="Arial, sans-serif" font-size="9">• ANY_DATA_ALTA → Any</text>
+    <text x="305" y="634" font-family="Arial, sans-serif" font-size="9">• Consistent naming scheme</text>
+
+    <!-- Population Transformations -->
+    <rect x="520" y="450" width="210" height="210" fill="white" stroke="#666" stroke-width="1"/>
+    <text x="625" y="470" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">Population Processing</text>
+    <text x="530" y="490" font-family="Arial, sans-serif" font-size="10" font-weight="bold">Enrichment:</text>
+    <text x="530" y="505" font-family="Arial, sans-serif" font-size="9">• Map codes to labels</text>
+    <text x="530" y="518" font-family="Arial, sans-serif" font-size="9">• Sex: 1→Male, 2→Female</text>
+    <text x="530" y="531" font-family="Arial, sans-serif" font-size="9">• Nationality→Region names</text>
+    <text x="530" y="544" font-family="Arial, sans-serif" font-size="9">• Broadcast join strategy</text>
+    <text x="530" y="561" font-family="Arial, sans-serif" font-size="10" font-weight="bold">Temporal Processing:</text>
+    <text x="530" y="576" font-family="Arial, sans-serif" font-size="9">• Extract year from date</text>
+    <text x="530" y="589" font-family="Arial, sans-serif" font-size="8" font-family="monospace">  substring(1,4)</text>
+    <text x="530" y="606" font-family="Arial, sans-serif" font-size="10" font-weight="bold">Normalization:</text>
+    <text x="530" y="621" font-family="Arial, sans-serif" font-size="9">• ".." → null conversion</text>
+    <text x="530" y="634" font-family="Arial, sans-serif" font-size="9">• Type casting to integer</text>
+  </g>
+
+  <!-- Arrows from Formatted to Exploitation -->
+  <path d="M 175 690 L 175 740" stroke="#333" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
+  <path d="M 400 690 L 400 740" stroke="#333" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
+  <path d="M 625 690 L 625 740" stroke="#333" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
+  <text x="175" y="710" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">Transform</text>
+  <text x="400" y="710" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">Transform</text>
+  <text x="625" y="710" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">Transform</text>
+
+  <!-- Exploitation Zone -->
+  <g id="exploitation-zone">
+    <rect x="50" y="750" width="700" height="280" fill="white" stroke="#333" stroke-width="2"/>
+    <text x="400" y="780" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">Exploitation Zone</text>
+    <text x="400" y="800" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" font-style="italic">Analysis-Ready Features (CSV)</text>
+
+    <!-- Three KPI boxes -->
+    <!-- Shannon Index -->
+    <rect x="70" y="825" width="210" height="190" fill="white" stroke="#666" stroke-width="1"/>
+    <text x="175" y="845" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">Shannon Diversity Index</text>
+    <text x="80" y="870" font-family="Arial, sans-serif" font-size="10">Multicultural diversity metric</text>
+    <text x="80" y="885" font-family="Arial, sans-serif" font-size="9">H = -Σ(p_i × log(p_i))</text>
+    <text x="80" y="900" font-family="Arial, sans-serif" font-size="9">• Nationality proportions</text>
+    <text x="80" y="915" font-family="Arial, sans-serif" font-size="9">• Information theory basis</text>
+    <text x="80" y="930" font-family="Arial, sans-serif" font-size="9">• By neighborhood/year</text>
+    <text x="80" y="945" font-family="Arial, sans-serif" font-size="9">• Higher = more diverse</text>
+    <text x="80" y="965" font-family="Arial, sans-serif" font-size="9">• Range: 0 to 3+</text>
+    <text x="80" y="980" font-family="Arial, sans-serif" font-size="9">• CSV output format</text>
+
+    <!-- Gini Coefficient -->
+    <rect x="295" y="825" width="210" height="190" fill="white" stroke="#666" stroke-width="1"/>
+    <text x="400" y="845" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">Gini Coefficient</text>
+    <text x="305" y="870" font-family="Arial, sans-serif" font-size="10">Income inequality measure</text>
+    <text x="305" y="885" font-family="Arial, sans-serif" font-size="9">By district (inter-neighborhood)</text>
+    <text x="305" y="900" font-family="Arial, sans-serif" font-size="9">• Rank by income index</text>
+    <text x="305" y="915" font-family="Arial, sans-serif" font-size="9">• Window functions used</text>
+    <text x="305" y="930" font-family="Arial, sans-serif" font-size="9">• Range: 0 (equal) to 1</text>
+    <text x="305" y="945" font-family="Arial, sans-serif" font-size="9">• Additional statistics:</text>
+    <text x="315" y="965" font-family="Arial, sans-serif" font-size="9">- Mean, median, std dev</text>
+    <text x="315" y="980" font-family="Arial, sans-serif" font-size="9">- Coefficient of variation</text>
+
+    <!-- Resolution Time -->
+    <rect x="520" y="825" width="210" height="190" fill="white" stroke="#666" stroke-width="1"/>
+    <text x="625" y="845" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">Resolution Time KPI</text>
+    <text x="530" y="870" font-family="Arial, sans-serif" font-size="10">Service efficiency metric</text>
+    <text x="530" y="885" font-family="Arial, sans-serif" font-size="9">Days from creation to closure</text>
+    <text x="530" y="900" font-family="Arial, sans-serif" font-size="9">• Date arithmetic logic</text>
+    <text x="530" y="915" font-family="Arial, sans-serif" font-size="9">• Average by neighborhood</text>
+    <text x="530" y="930" font-family="Arial, sans-serif" font-size="9">• Min/max values tracked</text>
+    <text x="530" y="945" font-family="Arial, sans-serif" font-size="9">• Incident count included</text>
+    <text x="530" y="965" font-family="Arial, sans-serif" font-size="9">• Quality issue found:</text>
+    <text x="540" y="980" font-family="Arial, sans-serif" font-size="9">16.4% same-day resolution</text>
+  </g>
+
+  <!-- Technical Footer -->
+  <rect x="50" y="1100" width="700" height="70" fill="white" stroke="#333" stroke-width="1"/>
+  <text x="400" y="1120" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" font-weight="bold">Technical Implementation</text>
+  <text x="400" y="1135" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">Apache Spark 3.x | PySpark DataFrame API | Parquet Columnar Storage</text>
+  <text x="400" y="1150" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">Partition Pruning | Broadcast Join Optimization | Window Functions</text>
+</svg>
