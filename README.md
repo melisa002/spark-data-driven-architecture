@@ -1,3 +1,7 @@
 # spark-data-driven-architecture
 
-HI my name is OlAf
+In this project we apply a specific pipeline for spark data.
+
+
+
+Co-authored-by: Pol Coma Garcia <pol.garcia@bse.eu>
